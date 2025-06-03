@@ -1,0 +1,997 @@
+1. What is your year of study?,2. What is your gender?,3. How often do you have difficulty falling asleep at night? ,"4. On average, how many hours of sleep do you get on a typical day?",5. How often do you wake up during the night and have trouble falling back asleep?,6. How would you rate the overall quality of your sleep?,7. How often do you experience difficulty concentrating during lectures or studying due to lack of sleep?,"8. How often do you feel fatigued during the day, affecting your ability to study or attend classes?","9. How often do you miss or skip classes due to sleep-related issues (e.g., insomnia, feeling tired)?",10. How would you describe the impact of insufficient sleep on your ability to complete assignments and meet deadlines?,"11. How often do you use electronic devices (e.g., phone, computer) before going to sleep?","12. How often do you consume caffeine (coffee, energy drinks) to stay awake or alert?",13. How often do you engage in physical activity or exercise?,14. How would you describe your stress levels related to academic workload?,15. How would you rate your overall academic performance (GPA or grades) in the past semester?
+Graduate student,Male,1.5,7.5,1.5,3,2,3,3,2,1.5,5.5,3.5,High stress,Average
+Third year,Male,1.5,7.5,1.5,3,3,2,3,3,3.5,3.5,3.5,Low stress,Good
+First year,Female,3.5,7.5,3.5,3,3,3,2,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,10.0,3.5,2,3,3,1,1,3.5,3.5,7.0,Extremely high stress,Excellent
+Graduate student,Male,1.5,7.5,1.5,4,4,2,3,2,1.5,1.5,5.5,Low stress,Average
+Second year,Male,1.5,7.5,1.5,0,2,1,2,1,3.5,1.5,1.5,High stress,Below Average
+Third year,Male,3.5,7.5,1.5,3,2,3,2,1,5.5,5.5,0.0,No stress,Good
+Third year,Male,1.5,10.0,0.0,3,4,2,3,2,5.5,5.5,1.5,Low stress,Good
+Third year,Male,1.5,10.0,1.5,4,2,1,1,2,5.5,5.5,3.5,Extremely high stress,Average
+Third year,Male,0.0,10.0,0.0,4,4,4,4,2,1.5,3.5,5.5,High stress,Poor
+Second year,Female,1.5,7.5,0.0,1,3,2,3,3,3.5,1.5,3.5,High stress,Average
+Third year,Male,1.5,10.0,1.5,3,3,2,4,3,3.5,0.0,3.5,High stress,Average
+Second year,Male,1.5,7.5,1.5,1,1,2,2,1,7.0,5.5,3.5,High stress,Average
+Second year,Female,1.5,6.5,3.5,3,3,2,2,3,3.5,1.5,3.5,High stress,Below Average
+Second year,Male,3.5,10.0,1.5,2,4,3,3,2,1.5,5.5,1.5,High stress,Good
+Graduate student,Male,3.5,5.5,3.5,3,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+First year,Male,1.5,10.0,3.5,2,1,0,2,2,3.5,5.5,5.5,Low stress,Good
+Third year,Male,1.5,7.5,0.0,2,3,2,3,3,1.5,1.5,5.5,High stress,Below Average
+Second year,Male,3.5,6.5,1.5,3,1,2,2,2,3.5,3.5,3.5,High stress,Average
+Third year,Male,0.0,10.0,0.0,3,1,2,1,2,3.5,3.5,3.5,High stress,Average
+First year,Male,0.0,7.5,5.5,2,2,1,2,2,5.5,3.5,3.5,High stress,Excellent
+Third year,Male,1.5,7.5,1.5,3,3,3,1,3,1.5,5.5,3.5,High stress,Below Average
+Graduate student,Male,5.5,5.5,5.5,2,2,3,1,1,5.5,5.5,1.5,Low stress,Average
+Second year,Male,0.0,7.5,0.0,3,3,2,3,2,1.5,1.5,3.5,Extremely high stress,Good
+First year,Male,1.5,7.5,3.5,3,0,2,1,2,5.5,1.5,5.5,High stress,Good
+Second year,Male,5.5,6.5,5.5,1,2,3,2,0,5.5,5.5,1.5,Low stress,Excellent
+Graduate student,Male,0.0,10.0,0.0,4,3,2,2,3,3.5,1.5,5.5,High stress,Average
+Second year,Female,1.5,7.5,1.5,3,2,3,3,1,1.5,5.5,5.5,High stress,Below Average
+Third year,Male,3.5,7.5,3.5,3,2,3,3,2,1.5,3.5,3.5,High stress,Average
+Second year,Female,1.5,7.5,0.0,2,3,1,3,2,1.5,1.5,3.5,High stress,Good
+Second year,Female,1.5,7.5,1.5,3,3,2,3,3,5.5,1.5,5.5,Low stress,Average
+Third year,Male,1.5,7.5,1.5,3,2,1,2,2,3.5,3.5,3.5,High stress,Below Average
+Third year,Male,1.5,7.5,3.5,3,3,3,2,1,1.5,3.5,5.5,Low stress,Average
+Third year,Female,1.5,7.5,3.5,2,3,4,3,2,1.5,5.5,5.5,Low stress,Good
+Second year,Male,1.5,7.5,1.5,1,3,3,3,2,1.5,1.5,3.5,High stress,Average
+Third year,Male,3.5,5.5,3.5,2,2,3,3,2,1.5,1.5,5.5,Low stress,Below Average
+Third year,Male,0.0,10.0,1.5,3,3,1,2,2,0.0,3.5,5.5,High stress,Poor
+Graduate student,Female,0.0,7.5,1.5,3,3,4,3,3,1.5,1.5,5.5,High stress,Below Average
+Second year,Female,1.5,7.5,1.5,0,2,3,2,2,1.5,3.5,5.5,High stress,Average
+Third year,Male,1.5,6.5,1.5,2,3,3,3,3,1.5,1.5,5.5,Extremely high stress,Average
+Third year,Female,1.5,7.5,3.5,2,2,3,1,3,3.5,3.5,3.5,Low stress,Average
+Third year,Male,0.0,10.0,0.0,2,3,2,3,1,1.5,5.5,5.5,High stress,Average
+Third year,Female,1.5,7.5,1.5,2,2,2,3,2,1.5,1.5,7.0,Extremely high stress,Average
+Third year,Male,1.5,10.0,1.5,4,3,3,2,3,1.5,3.5,3.5,Extremely high stress,Below Average
+Third year,Male,1.5,7.5,1.5,3,3,2,3,3,1.5,3.5,3.5,High stress,Poor
+Third year,Female,1.5,7.5,0.0,3,3,1,4,2,1.5,3.5,5.5,High stress,Below Average
+Third year,Female,0.0,10.0,1.5,3,2,3,2,3,1.5,1.5,3.5,High stress,Average
+Third year,Male,0.0,7.5,0.0,1,2,2,4,3,3.5,1.5,3.5,High stress,Average
+Second year,Male,1.5,10.0,1.5,3,2,2,3,3,1.5,1.5,5.5,Low stress,Below Average
+Third year,Female,1.5,7.5,3.5,3,3,1,3,3,1.5,3.5,5.5,High stress,Average
+Third year,Female,1.5,7.5,0.0,4,2,3,2,2,5.5,5.5,5.5,Low stress,Average
+Third year,Female,1.5,7.5,1.5,0,2,3,3,2,1.5,1.5,5.5,Extremely high stress,Below Average
+Third year,Female,3.5,7.5,1.5,3,3,2,2,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Female,3.5,2.0,0.0,4,4,3,3,3,0.0,0.0,7.0,Extremely high stress,Poor
+Second year,Female,1.5,10.0,1.5,2,3,3,2,2,1.5,1.5,5.5,Low stress,Poor
+Third year,Male,1.5,7.5,3.5,3,3,3,3,2,1.5,1.5,3.5,Extremely high stress,Poor
+Third year,Male,3.5,7.5,1.5,2,3,3,3,4,3.5,1.5,5.5,Extremely high stress,Poor
+Third year,Male,1.5,7.5,1.5,2,3,3,3,2,3.5,3.5,3.5,High stress,Poor
+Third year,Female,0.0,10.0,0.0,2,3,3,4,3,0.0,3.5,5.5,Low stress,Poor
+Second year,Male,1.5,7.5,3.5,2,3,2,3,3,3.5,1.5,3.5,High stress,Poor
+Third year,Male,1.5,10.0,1.5,3,2,3,3,3,1.5,1.5,5.5,High stress,Poor
+Third year,Female,1.5,7.5,1.5,2,3,3,2,3,3.5,1.5,5.5,High stress,Poor
+Graduate student,Female,0.0,7.5,1.5,3,3,4,3,2,0.0,0.0,7.0,High stress,Poor
+Third year,Female,1.5,10.0,0.0,4,4,3,3,3,3.5,1.5,5.5,High stress,Poor
+Second year,Female,1.5,7.5,0.0,1,1,2,1,2,3.5,3.5,3.5,High stress,Poor
+Third year,Male,3.5,5.5,5.5,1,1,1,1,1,5.5,5.5,1.5,Low stress,Good
+Second year,Male,0.0,7.5,1.5,3,1,1,1,2,3.5,5.5,1.5,High stress,Poor
+Graduate student,Male,1.5,7.5,1.5,1,2,2,1,2,3.5,3.5,3.5,High stress,Poor
+Second year,Male,1.5,7.5,0.0,4,2,3,2,3,3.5,3.5,5.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,3,2,2,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,2,4,2,3,3.5,1.5,3.5,High stress,Poor
+Graduate student,Male,3.5,7.5,1.5,2,2,3,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,7.5,0.0,3,4,3,3,2,1.5,1.5,5.5,Low stress,Poor
+Third year,Male,1.5,7.5,0.0,4,1,2,3,2,1.5,1.5,5.5,High stress,Poor
+Third year,Male,7.0,5.5,3.5,3,3,2,1,3,5.5,3.5,3.5,High stress,Poor
+Third year,Female,3.5,6.5,1.5,3,1,2,2,1,3.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,5.5,4,2,3,3,1,5.5,3.5,5.5,High stress,Poor
+Second year,Male,1.5,10.0,0.0,0,1,2,1,1,1.5,1.5,3.5,Low stress,Poor
+Graduate student,Female,0.0,7.5,0.0,4,3,3,3,4,1.5,1.5,5.5,High stress,Below Average
+Third year,Female,0.0,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,Low stress,Below Average
+Graduate student,Male,3.5,7.5,0.0,4,4,3,2,3,3.5,3.5,3.5,Low stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,2,2,3,3,3,5.5,1.5,3.5,High stress,Below Average
+First year,Male,1.5,7.5,1.5,3,1,1,0,4,1.5,3.5,7.0,High stress,Below Average
+Graduate student,Female,1.5,7.5,0.0,3,3,4,3,1,5.5,3.5,3.5,Low stress,Poor
+Graduate student,Male,0.0,6.5,1.5,0,3,3,4,3,3.5,1.5,3.5,No stress,Poor
+Graduate student,Male,0.0,6.5,1.5,4,3,4,3,3,0.0,1.5,3.5,High stress,Below Average
+First year,Male,1.5,7.5,1.5,3,4,2,3,1,1.5,5.5,5.5,High stress,Poor
+Third year,Female,1.5,7.5,0.0,1,2,4,3,1,3.5,1.5,0.0,High stress,Below Average
+First year,Female,0.0,10.0,0.0,1,2,2,1,2,5.5,5.5,1.5,No stress,Poor
+Third year,Female,0.0,7.5,1.5,2,2,3,3,4,1.5,1.5,1.5,High stress,Poor
+Third year,Female,0.0,7.5,1.5,3,2,4,3,3,1.5,3.5,5.5,High stress,Below Average
+Third year,Male,0.0,7.5,1.5,2,3,3,2,3,1.5,3.5,7.0,High stress,Below Average
+Third year,Female,1.5,6.5,3.5,3,2,3,4,2,1.5,1.5,5.5,Low stress,Average
+Graduate student,Female,1.5,7.5,1.5,3,2,3,1,3,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,1.5,4,3,2,4,2,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,10.0,1.5,4,3,4,3,2,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,0.0,4,3,3,4,1,5.5,3.5,3.5,No stress,Poor
+Third year,Male,3.5,7.5,0.0,2,0,1,2,1,3.5,5.5,1.5,High stress,Average
+Graduate student,Male,5.5,10.0,1.5,4,1,1,1,2,3.5,3.5,5.5,High stress,Poor
+First year,Male,1.5,7.5,0.0,4,1,0,2,1,1.5,3.5,5.5,Extremely high stress,Below Average
+Third year,Female,1.5,10.0,3.5,4,4,2,2,2,1.5,1.5,3.5,High stress,Below Average
+Third year,Female,3.5,7.5,1.5,4,4,2,2,2,1.5,1.5,3.5,High stress,Below Average
+Graduate student,Male,5.5,7.5,0.0,4,2,3,4,3,1.5,1.5,7.0,Low stress,Poor
+Graduate student,Female,5.5,7.5,3.5,3,3,3,1,3,1.5,5.5,5.5,High stress,Below Average
+Third year,Male,1.5,10.0,1.5,2,3,2,4,3,3.5,0.0,3.5,High stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,3,3,1,1,5.5,3.5,3.5,Extremely high stress,Poor
+Third year,Male,3.5,6.5,1.5,4,1,2,2,1,3.5,3.5,3.5,Low stress,Below Average
+Third year,Male,3.5,7.5,1.5,4,2,3,1,3,1.5,3.5,5.5,High stress,Below Average
+Graduate student,Female,3.5,10.0,0.0,1,1,2,3,2,0.0,5.5,1.5,Extremely high stress,Poor
+Third year,Female,3.5,7.5,0.0,4,3,2,2,4,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Female,1.5,7.5,3.5,3,4,1,1,3,3.5,3.5,5.5,High stress,Poor
+Third year,Female,5.5,10.0,1.5,4,3,2,3,4,1.5,1.5,5.5,No stress,Below Average
+Graduate student,Female,3.5,10.0,1.5,2,1,1,3,2,3.5,3.5,3.5,High stress,Below Average
+Third year,Female,1.5,10.0,1.5,2,3,3,3,1,3.5,0.0,3.5,High stress,Poor
+Third year,Male,0.0,10.0,0.0,4,2,3,4,2,0.0,1.5,5.5,High stress,Poor
+Third year,Female,1.5,7.5,1.5,4,4,4,4,3,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,0.0,4,3,4,4,4,0.0,1.5,5.5,Extremely high stress,Poor
+Graduate student,Female,0.0,7.5,0.0,2,4,2,4,3,1.5,0.0,5.5,High stress,Poor
+Third year,Male,1.5,7.5,0.0,2,3,2,3,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Female,0.0,10.0,1.5,4,3,4,3,3,1.5,0.0,5.5,Extremely high stress,Poor
+Third year,Female,0.0,10.0,0.0,3,4,3,2,3,0.0,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,3,3,2,4,2,1.5,0.0,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,3,4,3,3,2,3.5,1.5,5.5,High stress,Below Average
+Third year,Male,0.0,7.5,1.5,4,3,3,4,3,1.5,1.5,7.0,Low stress,Poor
+Graduate student,Male,1.5,7.5,0.0,4,3,3,4,4,3.5,3.5,5.5,No stress,Poor
+Third year,Female,0.0,7.5,0.0,4,2,2,3,4,3.5,0.0,3.5,High stress,Poor
+Graduate student,Female,1.5,10.0,1.5,3,4,4,2,3,3.5,1.5,7.0,High stress,Below Average
+Second year,Female,0.0,10.0,0.0,3,3,4,4,1,1.5,0.0,3.5,High stress,Poor
+Second year,Female,7.0,7.5,1.5,3,3,3,2,1,0.0,1.5,3.5,High stress,Poor
+Graduate student,Female,1.5,10.0,0.0,3,4,4,4,3,1.5,0.0,5.5,Extremely high stress,Poor
+Third year,Male,0.0,7.5,3.5,4,3,3,3,2,1.5,1.5,7.0,High stress,Poor
+Third year,Male,1.5,7.5,0.0,3,3,3,4,4,0.0,0.0,3.5,Extremely high stress,Below Average
+Graduate student,Female,1.5,10.0,1.5,3,3,4,2,1,3.5,3.5,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,0.0,3,2,3,3,3,0.0,1.5,7.0,Low stress,Below Average
+Third year,Female,1.5,10.0,1.5,4,3,4,4,3,1.5,1.5,7.0,Low stress,Poor
+Graduate student,Female,3.5,7.5,0.0,4,4,4,1,3,1.5,0.0,7.0,Extremely high stress,Poor
+Third year,Female,0.0,7.5,1.5,3,1,2,3,1,1.5,1.5,3.5,High stress,Poor
+Second year,Male,1.5,7.5,0.0,4,3,3,3,3,1.5,3.5,7.0,High stress,Poor
+Graduate student,Female,0.0,10.0,0.0,3,2,2,2,3,1.5,5.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,7.5,1.5,3,2,3,3,3,0.0,0.0,7.0,Low stress,Poor
+Third year,Female,1.5,7.5,1.5,2,2,3,3,2,5.5,3.5,5.5,High stress,Below Average
+Graduate student,Female,1.5,10.0,1.5,4,2,3,2,2,3.5,5.5,5.5,Low stress,Below Average
+Third year,Male,1.5,10.0,1.5,3,3,3,3,3,1.5,0.0,5.5,High stress,Below Average
+Third year,Male,0.0,7.5,0.0,3,3,3,3,2,3.5,1.5,3.5,Low stress,Poor
+Third year,Female,3.5,7.5,1.5,3,3,1,4,4,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,10.0,0.0,4,3,4,4,3,1.5,1.5,7.0,High stress,Average
+Third year,Male,1.5,10.0,1.5,2,3,2,2,2,5.5,1.5,3.5,Low stress,Below Average
+Third year,Female,1.5,7.5,3.5,3,3,3,3,2,1.5,1.5,3.5,High stress,Poor
+Third year,Female,1.5,10.0,0.0,3,3,2,3,2,3.5,0.0,7.0,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,0,2,2,2,2,1.5,3.5,3.5,High stress,Below Average
+Graduate student,Male,3.5,7.5,1.5,3,2,2,3,3,3.5,3.5,5.5,Low stress,Below Average
+Third year,Male,0.0,7.5,3.5,4,3,2,3,2,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Female,0.0,10.0,0.0,4,4,3,3,2,5.5,3.5,3.5,High stress,Below Average
+Graduate student,Female,3.5,7.5,0.0,4,0,1,2,2,1.5,3.5,3.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,1.5,3,2,3,2,2,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,7.5,1.5,3,4,3,3,4,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Female,3.5,7.5,0.0,4,4,3,3,3,3.5,5.5,3.5,Low stress,Average
+Third year,Male,0.0,7.5,1.5,3,3,2,3,3,5.5,1.5,5.5,Low stress,Poor
+Third year,Female,0.0,7.5,1.5,4,3,4,4,3,1.5,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,3,3,3,1,3.5,1.5,5.5,High stress,Poor
+Third year,Female,1.5,7.5,3.5,3,4,4,3,2,1.5,1.5,5.5,Extremely high stress,Below Average
+Second year,Female,1.5,10.0,0.0,3,2,4,2,2,1.5,0.0,5.5,High stress,Poor
+Graduate student,Male,1.5,7.5,1.5,3,3,3,3,3,1.5,3.5,3.5,High stress,Below Average
+Third year,Male,0.0,7.5,0.0,3,2,2,0,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,10.0,1.5,3,2,3,3,3,1.5,3.5,5.5,High stress,Poor
+Graduate student,Female,1.5,10.0,1.5,4,3,3,2,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Female,1.5,10.0,1.5,4,3,3,2,2,0.0,1.5,5.5,High stress,Below Average
+Graduate student,Female,0.0,10.0,1.5,3,4,4,4,4,3.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Female,1.5,7.5,1.5,3,3,3,3,3,1.5,1.5,5.5,Extremely high stress,Poor
+Third year,Male,1.5,7.5,1.5,3,4,3,3,3,0.0,1.5,3.5,High stress,Poor
+Third year,Female,1.5,7.5,1.5,3,2,4,3,4,1.5,1.5,3.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,3,3,3,2,3,1.5,1.5,3.5,Low stress,Poor
+Graduate student,Male,0.0,10.0,0.0,3,2,3,3,3,5.5,3.5,3.5,Low stress,Poor
+Third year,Female,0.0,10.0,0.0,4,4,4,2,4,0.0,1.5,7.0,High stress,Poor
+Graduate student,Male,0.0,10.0,0.0,3,4,3,4,4,1.5,1.5,5.5,Extremely high stress,Poor
+Second year,Male,1.5,10.0,0.0,4,4,4,4,3,0.0,1.5,7.0,High stress,Poor
+Third year,Female,0.0,7.5,1.5,3,4,4,4,4,0.0,1.5,7.0,Extremely high stress,Poor
+Third year,Male,1.5,10.0,1.5,3,3,3,4,4,0.0,0.0,7.0,High stress,Poor
+Graduate student,Male,0.0,10.0,1.5,3,3,4,3,4,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,4,3,3,4,4,0.0,0.0,3.5,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,1.5,4,3,4,3,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,3,3,2,3,0.0,0.0,5.5,High stress,Poor
+Graduate student,Male,0.0,10.0,0.0,3,3,4,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,4,4,4,3,1.5,1.5,5.5,Extremely high stress,Poor
+Third year,Male,0.0,10.0,0.0,3,4,3,4,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,4,3,4,4,4,0.0,3.5,5.5,Extremely high stress,Poor
+Graduate student,Female,1.5,10.0,1.5,4,4,4,3,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,4,4,4,4,3,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,0.0,4,4,3,4,3,0.0,1.5,7.0,Extremely high stress,Poor
+Third year,Male,0.0,10.0,0.0,3,3,3,3,4,1.5,1.5,5.5,Low stress,Poor
+Third year,Male,1.5,10.0,0.0,4,2,4,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,10.0,0.0,3,3,3,3,3,0.0,0.0,5.5,High stress,Poor
+Graduate student,Male,7.0,10.0,1.5,4,3,3,3,4,0.0,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,4,4,4,4,4,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,3,4,3,3,4,0.0,0.0,5.5,Extremely high stress,Below Average
+Third year,Female,0.0,10.0,0.0,3,4,3,2,3,0.0,0.0,5.5,High stress,Poor
+Graduate student,Female,0.0,10.0,0.0,3,3,4,4,4,0.0,1.5,5.5,Extremely high stress,Poor
+Third year,Female,1.5,7.5,0.0,4,4,4,3,3,0.0,0.0,5.5,Extremely high stress,Poor
+Graduate student,Female,0.0,7.5,0.0,3,4,3,4,4,0.0,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,4,3,3,3,3,0.0,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,1.5,3,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,0.0,4,4,3,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,4,3,4,4,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,0.0,3,4,4,4,2,0.0,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,0.0,4,3,4,3,4,0.0,0.0,7.0,High stress,Poor
+Graduate student,Male,0.0,7.5,1.5,4,3,4,3,4,0.0,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,4,3,4,3,4,0.0,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,4,3,4,4,4,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,4,3,4,3,3,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,3,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,4,3,3,3,4,1.5,1.5,7.0,High stress,Poor
+Third year,Male,0.0,7.5,0.0,3,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,0.0,4,3,3,3,3,0.0,0.0,5.5,High stress,Below Average
+Graduate student,Male,0.0,7.5,1.5,3,3,3,3,3,1.5,1.5,5.5,Extremely high stress,Poor
+Third year,Male,1.5,7.5,0.0,4,4,3,4,4,0.0,0.0,7.0,High stress,Poor
+Graduate student,Male,0.0,10.0,1.5,4,3,4,4,4,0.0,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,7.5,1.5,3,3,4,3,3,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,4,4,4,4,4,1.5,1.5,5.5,High stress,Poor
+Third year,Female,1.5,7.5,0.0,4,3,3,4,4,1.5,1.5,7.0,High stress,Poor
+Graduate student,Female,1.5,10.0,1.5,4,4,4,4,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,1.5,4,4,4,4,4,0.0,1.5,5.5,Extremely high stress,Poor
+Third year,Male,1.5,10.0,0.0,3,3,3,4,3,1.5,1.5,7.0,Extremely high stress,Poor
+Third year,Male,1.5,7.5,0.0,4,3,4,4,4,1.5,0.0,5.5,Extremely high stress,Below Average
+Third year,Female,1.5,7.5,1.5,3,3,2,4,3,1.5,0.0,7.0,Extremely high stress,Poor
+Third year,Male,0.0,10.0,0.0,4,3,4,3,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Female,0.0,7.5,1.5,3,4,2,3,3,0.0,0.0,7.0,Extremely high stress,Poor
+Third year,Male,1.5,7.5,1.5,4,4,4,4,4,1.5,0.0,7.0,High stress,Poor
+Graduate student,Male,1.5,7.5,1.5,4,4,4,3,3,1.5,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,4,4,3,4,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,10.0,0.0,0,4,2,3,2,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,7.5,0.0,4,3,3,3,3,0.0,0.0,5.5,High stress,Poor
+Graduate student,Female,0.0,10.0,0.0,4,3,3,4,4,1.5,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,4,4,4,3,3,3.5,1.5,5.5,High stress,Below Average
+Graduate student,Female,1.5,7.5,0.0,4,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,10.0,1.5,4,3,3,3,3,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Female,1.5,7.5,1.5,3,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,4,4,4,4,0.0,0.0,5.5,Extremely high stress,Poor
+Graduate student,Female,0.0,7.5,0.0,4,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,0.0,4,4,4,4,4,0.0,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,1.5,10.0,0.0,4,3,3,3,3,1.5,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,3,4,4,4,4,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,4,4,4,4,4,3.5,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,4,4,4,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,4,3,3,3,3,0.0,0.0,5.5,Extremely high stress,Poor
+Graduate student,Female,1.5,7.5,0.0,4,4,4,3,3,1.5,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,0.0,3,3,4,4,4,1.5,0.0,7.0,High stress,Poor
+Graduate student,Female,1.5,10.0,0.0,4,4,4,2,3,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,3,3,3,3,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,4,4,3,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,3,4,3,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,7.5,0.0,4,4,3,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,4,2,3,3,3,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,3,4,4,4,4,0.0,0.0,5.5,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,4,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,4,4,4,3,4,1.5,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Female,0.0,10.0,0.0,3,3,3,3,3,0.0,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Female,0.0,10.0,1.5,4,3,3,3,3,0.0,1.5,7.0,High stress,Poor
+Graduate student,Female,1.5,10.0,0.0,4,3,4,4,3,0.0,1.5,7.0,Extremely high stress,Poor
+Third year,Female,0.0,10.0,0.0,4,3,4,4,4,0.0,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,1.5,10.0,1.5,4,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,4,4,4,4,4,1.5,0.0,7.0,Extremely high stress,Poor
+Third year,Female,0.0,10.0,0.0,4,3,4,4,4,1.5,1.5,7.0,Extremely high stress,Poor
+Third year,Female,1.5,7.5,1.5,4,4,3,4,4,0.0,0.0,7.0,High stress,Poor
+Graduate student,Female,0.0,10.0,1.5,3,3,3,4,4,0.0,0.0,5.5,Extremely high stress,Below Average
+Graduate student,Female,0.0,10.0,0.0,4,4,4,4,3,0.0,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,3,4,4,4,4,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,1.5,10.0,0.0,4,4,4,3,4,0.0,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,4,4,4,4,4,1.5,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,0.0,4,3,4,3,4,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,0.0,4,3,3,4,4,0.0,3.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,10.0,0.0,4,3,4,3,3,0.0,0.0,7.0,Extremely high stress,Below Average
+Third year,Male,0.0,10.0,0.0,4,3,4,4,4,1.5,0.0,5.5,High stress,Poor
+Graduate student,Male,0.0,10.0,0.0,3,4,4,3,4,1.5,0.0,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,4,3,4,3,3,1.5,0.0,7.0,Extremely high stress,Poor
+Third year,Male,0.0,7.5,0.0,4,4,4,3,4,0.0,0.0,7.0,High stress,Below Average
+Graduate student,Male,1.5,7.5,0.0,3,3,4,3,3,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,4,4,3,4,0.0,0.0,7.0,High stress,Poor
+Graduate student,Male,0.0,10.0,0.0,3,4,4,4,3,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,4,4,3,4,4,0.0,0.0,7.0,High stress,Poor
+Third year,Male,0.0,7.5,0.0,4,3,3,3,4,0.0,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,4,2,3,3,3,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,0.0,4,3,4,4,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,3,4,3,4,3,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,3,4,4,4,4,0.0,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,0.0,4,4,3,4,4,0.0,0.0,7.0,Extremely high stress,Average
+Graduate student,Male,0.0,10.0,0.0,4,4,4,4,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,3,3,3,3,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,3,4,4,4,4,1.5,1.5,7.0,Extremely high stress,Poor
+Third year,Male,0.0,10.0,0.0,4,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,4,4,3,4,1.5,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,0.0,4,4,4,3,3,1.5,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,4,4,4,4,4,1.5,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,4,4,4,4,4,1.5,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,4,4,3,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,4,4,4,4,1.5,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,3,4,4,4,4,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,4,3,4,4,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,7.5,1.5,4,4,4,3,4,0.0,1.5,7.0,High stress,Poor
+Graduate student,Male,0.0,10.0,1.5,4,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,4,3,4,4,3,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,4,4,3,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,10.0,1.5,4,4,3,3,4,1.5,0.0,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,4,4,4,4,3,1.5,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,3,3,3,4,1.5,0.0,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,4,4,3,4,4,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,1.5,10.0,1.5,3,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,4,3,4,4,3,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,4,4,4,4,4,3.5,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,1.5,3,4,4,3,3,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,4,4,4,3,4,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,4,4,4,4,0.0,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,7.5,0.0,4,4,4,3,4,1.5,0.0,7.0,Extremely high stress,Average
+Graduate student,Male,0.0,7.5,0.0,4,2,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Third year,Male,0.0,10.0,1.5,4,4,4,4,3,0.0,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,0.0,4,4,4,3,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Female,1.5,10.0,0.0,2,4,4,4,3,0.0,1.5,7.0,Extremely high stress,Poor
+Third year,Female,0.0,10.0,0.0,4,4,4,3,4,1.5,0.0,7.0,Extremely high stress,Below Average
+Third year,Female,1.5,7.5,0.0,4,4,3,3,3,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,3,3,4,3,4,0.0,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,3,3,4,4,4,0.0,0.0,7.0,Extremely high stress,Below Average
+Third year,Female,1.5,10.0,1.5,4,4,3,4,4,0.0,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,0.0,4,4,4,4,4,0.0,0.0,7.0,High stress,Poor
+Graduate student,Male,1.5,10.0,1.5,4,3,4,4,4,0.0,0.0,7.0,High stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,0.0,4,3,4,4,3,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,0.0,4,2,3,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Female,1.5,10.0,0.0,4,4,4,4,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,0.0,4,4,4,4,4,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,0.0,3,4,3,4,4,1.5,0.0,5.5,High stress,Poor
+Graduate student,Male,1.5,10.0,0.0,3,4,3,3,3,1.5,0.0,7.0,High stress,Poor
+Graduate student,Male,0.0,10.0,1.5,3,4,3,3,3,1.5,0.0,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,0.0,4,4,4,3,4,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,6.5,1.5,3,3,3,3,4,0.0,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,4,3,4,4,4,0.0,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,6.5,1.5,3,3,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+First year,Male,0.0,7.5,0.0,4,3,4,3,4,0.0,0.0,7.0,Extremely high stress,Below Average
+Third year,Male,0.0,10.0,0.0,4,3,4,4,4,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,1.5,4,4,4,4,4,1.5,0.0,5.5,Extremely high stress,Poor
+Graduate student,Female,1.5,10.0,1.5,4,4,4,3,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,4,4,3,4,4,0.0,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,3,3,4,4,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,4,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Third year,Male,0.0,10.0,0.0,3,4,4,2,3,0.0,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,4,4,4,4,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,1.5,7.5,0.0,4,4,4,4,3,0.0,0.0,5.5,High stress,Poor
+Graduate student,Male,0.0,10.0,0.0,3,4,4,4,3,1.5,0.0,5.5,Extremely high stress,Below Average
+Graduate student,Female,0.0,10.0,0.0,4,2,3,2,3,1.5,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,4,3,4,3,2,0.0,1.5,7.0,Extremely high stress,Good
+Graduate student,Male,0.0,7.5,1.5,2,3,4,3,4,1.5,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,1.5,10.0,1.5,4,3,3,3,3,0.0,0.0,5.5,High stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,3,3,4,3,4,1.5,1.5,5.5,Extremely high stress,Below Average
+Third year,Male,1.5,10.0,1.5,4,4,4,4,3,0.0,1.5,5.5,High stress,Poor
+Third year,Male,0.0,6.5,0.0,4,3,4,3,4,1.5,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,0.0,4,3,3,4,4,1.5,0.0,7.0,High stress,Poor
+Third year,Female,0.0,7.5,0.0,4,2,3,3,4,0.0,1.5,7.0,Extremely high stress,Poor
+Second year,Male,1.5,10.0,1.5,4,3,2,4,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Third year,Female,1.5,10.0,1.5,4,2,3,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Second year,Female,3.5,7.5,1.5,3,3,3,3,3,1.5,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,4,4,4,4,4,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,10.0,1.5,3,3,3,3,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,4,4,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Second year,Male,1.5,7.5,3.5,3,3,4,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,3,3,3,3,3,1.5,1.5,3.5,High stress,Below Average
+Graduate student,Male,0.0,7.5,0.0,3,3,3,3,3,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,0.0,3,3,3,4,4,1.5,1.5,7.0,High stress,Poor
+Third year,Male,0.0,7.5,1.5,0,4,3,4,4,0.0,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,0.0,3,4,4,4,4,1.5,0.0,7.0,Extremely high stress,Poor
+Third year,Female,0.0,7.5,0.0,4,3,3,3,3,0.0,0.0,5.5,High stress,Average
+Graduate student,Male,1.5,7.5,1.5,3,2,3,2,2,1.5,1.5,3.5,High stress,Below Average
+Second year,Female,1.5,7.5,1.5,3,3,3,2,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,1.5,7.5,0.0,4,3,3,3,4,1.5,0.0,7.0,Extremely high stress,Below Average
+Third year,Male,0.0,10.0,0.0,4,3,3,4,3,1.5,0.0,7.0,High stress,Poor
+Third year,Male,1.5,7.5,0.0,4,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Third year,Male,1.5,7.5,1.5,3,3,4,4,3,1.5,0.0,7.0,Extremely high stress,Average
+Graduate student,Male,0.0,10.0,1.5,4,3,4,4,4,1.5,0.0,5.5,High stress,Average
+Graduate student,Male,0.0,10.0,1.5,4,3,4,3,4,1.5,0.0,7.0,Extremely high stress,Poor
+Third year,Female,0.0,7.5,1.5,3,3,4,4,3,0.0,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,3,4,4,4,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,0.0,10.0,1.5,4,4,4,4,3,1.5,1.5,3.5,High stress,Below Average
+Third year,Female,1.5,10.0,0.0,3,4,4,4,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,3,4,4,2,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,10.0,3.5,2,3,3,4,3,1.5,0.0,5.5,High stress,Below Average
+Graduate student,Female,1.5,10.0,0.0,4,3,3,3,4,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Female,1.5,7.5,1.5,4,4,4,4,3,0.0,1.5,7.0,Extremely high stress,Poor
+Third year,Male,1.5,7.5,1.5,3,3,3,3,3,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,3,4,4,3,4,0.0,0.0,5.5,Extremely high stress,Below Average
+Third year,Female,0.0,7.5,1.5,3,3,3,3,3,3.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,0.0,3,3,3,4,3,0.0,1.5,7.0,Extremely high stress,Below Average
+Third year,Female,1.5,7.5,1.5,0,3,4,4,3,1.5,0.0,5.5,Extremely high stress,Below Average
+Third year,Male,0.0,10.0,1.5,4,4,4,3,3,1.5,1.5,5.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,3,3,3,3,3,1.5,1.5,7.0,High stress,Poor
+Third year,Male,1.5,10.0,1.5,4,4,3,3,3,1.5,0.0,5.5,High stress,Below Average
+Third year,Female,0.0,7.5,1.5,3,3,3,3,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,0.0,4,3,3,3,3,0.0,0.0,7.0,High stress,Poor
+Graduate student,Male,1.5,7.5,1.5,3,3,3,3,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,3,3,3,3,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,0.0,10.0,1.5,3,3,3,4,4,0.0,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,3,3,3,4,4,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,0.0,4,3,3,3,3,0.0,0.0,7.0,High stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,3,3,4,4,1.5,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,3,4,4,4,1.5,0.0,5.5,Extremely high stress,Poor
+Graduate student,Female,0.0,7.5,0.0,4,4,4,3,3,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,4,4,3,3,4,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,4,3,4,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,4,3,2,3,4,0.0,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,3,3,3,3,3,1.5,0.0,7.0,High stress,Below Average
+Second year,Female,1.5,10.0,0.0,4,3,3,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,4,4,4,3,4,1.5,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,4,3,3,3,2,1.5,1.5,5.5,High stress,Below Average
+Third year,Female,1.5,10.0,1.5,4,3,3,4,4,0.0,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Female,1.5,7.5,1.5,0,2,2,2,4,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,4,3,3,3,1.5,1.5,7.0,High stress,Below Average
+Graduate student,Female,3.5,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,1,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,3,4,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Female,1.5,7.5,1.5,0,2,4,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,7.5,3.5,0,3,3,3,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,1.5,10.0,3.5,0,4,4,2,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,0,4,3,4,3,1.5,0.0,7.0,Extremely high stress,Poor
+First year,Male,0.0,10.0,1.5,0,4,3,4,4,1.5,0.0,7.0,Extremely high stress,Poor
+Third year,Male,0.0,10.0,1.5,0,4,3,3,3,1.5,0.0,5.5,High stress,Poor
+Graduate student,Male,0.0,10.0,0.0,0,4,4,4,4,1.5,0.0,5.5,High stress,Poor
+Graduate student,Male,1.5,10.0,1.5,0,3,4,4,4,1.5,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,4,3,3,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,0,3,3,3,4,0.0,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,0,4,4,4,3,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,0,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,1.5,0,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,0.0,0,3,3,3,3,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Female,1.5,7.5,1.5,0,3,4,4,4,0.0,1.5,5.5,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,0,4,4,4,4,0.0,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,0,4,4,4,3,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,0,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,1.5,0,4,3,3,3,1.5,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,0,4,4,3,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,0,4,3,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Third year,Female,0.0,10.0,0.0,0,4,3,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Third year,Male,0.0,7.5,0.0,0,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Third year,Male,0.0,10.0,0.0,0,4,4,4,4,1.5,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,0,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,0,4,4,4,4,1.5,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,0,3,4,4,3,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,0,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,0,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,0,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Third year,Female,0.0,10.0,0.0,0,4,4,4,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,0,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Third year,Male,0.0,10.0,1.5,0,4,3,3,3,0.0,0.0,3.5,Extremely high stress,Below Average
+First year,Male,0.0,10.0,0.0,0,4,4,3,3,1.5,1.5,5.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,0,4,3,3,4,0.0,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,0,3,3,0,3,3.5,1.5,3.5,Extremely high stress,Poor
+Third year,Female,1.5,7.5,1.5,0,3,3,3,3,1.5,0.0,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,10.0,0.0,0,4,3,4,4,0.0,0.0,3.5,Extremely high stress,Poor
+Graduate student,Female,1.5,7.5,1.5,0,3,4,3,4,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,0,3,3,3,3,0.0,0.0,1.5,Extremely high stress,Poor
+Third year,Male,0.0,10.0,1.5,0,3,3,3,2,0.0,1.5,1.5,High stress,Poor
+Second year,Male,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,1.5,High stress,Below Average
+Graduate student,Male,0.0,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,Extremely high stress,Poor
+Third year,Male,0.0,10.0,1.5,0,3,3,3,3,1.5,1.5,1.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,0.0,0,3,4,3,3,0.0,0.0,7.0,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,3,4,3,4,0.0,1.5,5.5,High stress,Poor
+Graduate student,Female,1.5,7.5,1.5,0,3,3,3,3,1.5,0.0,5.5,High stress,Poor
+Third year,Female,1.5,10.0,1.5,0,4,3,3,4,0.0,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,1.5,10.0,1.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Excellent
+Third year,Male,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,1.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,0,4,3,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,7.5,0.0,0,4,3,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,Extremely high stress,Poor
+Third year,Male,0.0,7.5,0.0,0,4,4,3,4,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,1.5,0,3,3,4,2,3.5,3.5,3.5,High stress,Below Average
+Third year,Male,1.5,10.0,1.5,0,3,3,3,3,7.0,3.5,3.5,High stress,Poor
+Third year,Male,0.0,7.5,1.5,0,3,2,3,3,1.5,1.5,5.5,High stress,Average
+Graduate student,Male,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,3.5,High stress,Below Average
+Third year,Female,0.0,7.5,1.5,0,3,4,3,3,0.0,1.5,5.5,Extremely high stress,Below Average
+Third year,Male,1.5,6.5,1.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,4,3,3,4,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,3.5,0,4,3,3,3,1.5,1.5,3.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,0.0,7.5,1.5,0,3,3,3,3,1.5,1.5,3.5,Extremely high stress,Poor
+Third year,Male,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,3,3,3,2,0.0,1.5,5.5,High stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,3,3,4,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,0,4,3,3,4,1.5,0.0,5.5,High stress,Poor
+Third year,Female,1.5,10.0,1.5,0,4,3,3,3,0.0,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,3,3,4,4,0.0,1.5,5.5,Extremely high stress,Poor
+Third year,Male,1.5,7.5,1.5,0,3,3,4,3,0.0,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,3.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,3,3,3,3,3.5,1.5,3.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,0,3,3,3,2,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,0,3,3,2,3,1.5,1.5,5.5,High stress,Below Average
+First year,Male,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Female,1.5,7.5,1.5,0,2,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,0,3,3,3,3,0.0,1.5,5.5,Extremely high stress,Below Average
+Third year,Male,0.0,7.5,1.5,0,3,3,3,4,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,3.5,7.5,1.5,3,3,3,3,3,1.5,0.0,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,0.0,0,3,3,3,2,1.5,0.0,3.5,High stress,Poor
+Third year,Male,0.0,7.5,1.5,0,4,3,3,3,1.5,0.0,5.5,Extremely high stress,Poor
+Graduate student,Female,1.5,7.5,1.5,0,2,3,2,2,1.5,1.5,5.5,High stress,Poor
+Graduate student,Female,1.5,7.5,1.5,0,3,3,3,3,0.0,1.5,7.0,High stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,4,4,3,3,0.0,0.0,7.0,Extremely high stress,Poor
+Third year,Male,0.0,10.0,0.0,0,3,4,4,4,1.5,0.0,5.5,Extremely high stress,Poor
+Third year,Male,1.5,10.0,0.0,0,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,7.5,1.5,0,3,4,3,3,0.0,0.0,5.5,Extremely high stress,Poor
+Third year,Male,0.0,7.5,1.5,0,4,3,3,3,0.0,0.0,5.5,Extremely high stress,Poor
+Third year,Male,0.0,7.5,1.5,0,4,3,4,2,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,0.0,7.5,1.5,0,3,3,4,4,1.5,1.5,5.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,0,3,4,3,3,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,0,4,2,4,4,1.5,1.5,7.0,Extremely high stress,Poor
+Third year,Male,1.5,10.0,1.5,0,4,3,3,4,1.5,1.5,7.0,High stress,Below Average
+Graduate student,Male,1.5,10.0,1.5,0,3,4,4,4,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,0.0,0,4,4,3,4,0.0,0.0,5.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,0,4,3,4,4,3.5,1.5,7.0,Extremely high stress,Poor
+Third year,Female,1.5,10.0,1.5,0,4,2,3,2,1.5,1.5,3.5,High stress,Poor
+Graduate student,Male,0.0,10.0,1.5,0,3,3,3,3,3.5,3.5,7.0,Extremely high stress,Poor
+Third year,Male,0.0,7.5,1.5,0,2,4,3,3,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,5.5,1,4,4,4,3,1.5,1.5,7.0,High stress,Poor
+Third year,Male,7.0,7.5,1.5,0,3,4,3,4,1.5,0.0,5.5,High stress,Poor
+Third year,Male,0.0,10.0,0.0,4,3,4,3,3,0.0,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Female,0.0,7.5,0.0,0,3,3,3,4,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,0.0,0,3,3,3,3,0.0,0.0,7.0,High stress,Below Average
+Graduate student,Male,1.5,10.0,1.5,0,3,3,3,3,1.5,1.5,7.0,Extremely high stress,Poor
+Third year,Female,1.5,10.0,1.5,0,3,3,4,2,1.5,0.0,5.5,Extremely high stress,Below Average
+Third year,Male,0.0,10.0,0.0,0,3,2,4,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,3,2,2,3,0.0,0.0,3.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,0.0,0,3,4,3,3,1.5,1.5,7.0,High stress,Poor
+Third year,Male,0.0,7.5,1.5,0,3,4,4,4,1.5,1.5,5.5,Extremely high stress,Below Average
+Third year,Female,1.5,10.0,1.5,0,3,2,4,4,1.5,0.0,7.0,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,0,3,3,3,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,0,4,3,3,3,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,4,3,3,3,0.0,0.0,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,0,3,3,3,4,0.0,0.0,7.0,High stress,Poor
+Graduate student,Male,1.5,10.0,1.5,0,3,3,3,3,1.5,0.0,5.5,High stress,Below Average
+Third year,Male,0.0,10.0,0.0,0,4,3,3,3,0.0,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,1.5,10.0,1.5,0,3,4,3,4,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,10.0,3.5,0,3,3,4,4,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,7.0,High stress,Below Average
+Third year,Male,1.5,7.5,0.0,0,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,1,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Female,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,3.5,High stress,Below Average
+Third year,Male,1.5,7.5,5.5,1,3,3,4,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,0,3,4,4,3,1.5,0.0,5.5,High stress,Below Average
+Third year,Female,1.5,7.5,0.0,1,3,3,3,4,0.0,1.5,5.5,Extremely high stress,Poor
+Third year,Male,3.5,7.5,3.5,1,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,7.0,High stress,Below Average
+Third year,Female,1.5,7.5,1.5,0,3,2,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,1,3,3,3,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Third year,Male,0.0,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Female,1.5,10.0,0.0,0,4,2,4,4,1.5,1.5,5.5,Extremely high stress,Below Average
+Third year,Male,1.5,7.5,1.5,1,2,3,3,3,1.5,1.5,5.5,High stress,Average
+Third year,Male,0.0,10.0,0.0,0,3,3,3,2,1.5,1.5,7.0,High stress,Below Average
+Third year,Male,1.5,10.0,1.5,0,3,3,3,3,1.5,0.0,5.5,Extremely high stress,Below Average
+Third year,Male,0.0,10.0,1.5,1,3,3,3,4,0.0,0.0,7.0,Extremely high stress,Poor
+Second year,Male,1.5,7.5,1.5,1,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,0.0,7.5,1.5,0,3,3,3,3,0.0,0.0,7.0,Extremely high stress,Poor
+Second year,Male,1.5,6.5,3.5,0,3,4,3,3,1.5,0.0,7.0,High stress,Poor
+Third year,Female,1.5,10.0,1.5,0,3,3,4,3,3.5,0.0,5.5,Extremely high stress,Below Average
+Graduate student,Female,1.5,7.5,1.5,0,4,3,3,3,1.5,1.5,5.5,Extremely high stress,Poor
+Third year,Male,1.5,7.5,1.5,1,4,4,3,3,1.5,1.5,5.5,Extremely high stress,Poor
+Third year,Male,1.5,10.0,0.0,0,3,3,2,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,10.0,0.0,0,3,3,3,2,0.0,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,1,3,3,4,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Female,0.0,7.5,1.5,1,3,3,4,4,1.5,1.5,5.5,High stress,Average
+Graduate student,Female,0.0,7.5,1.5,0,3,3,4,4,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,4,3,3,3,1.5,1.5,7.0,Extremely high stress,Poor
+Third year,Female,0.0,7.5,0.0,1,3,4,2,3,1.5,1.5,5.5,High stress,Poor
+Third year,Female,1.5,7.5,1.5,0,4,3,4,3,1.5,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,3,3,3,3,3.5,1.5,5.5,High stress,Below Average
+Graduate student,Female,0.0,7.5,1.5,0,3,3,4,4,1.5,1.5,5.5,High stress,Poor
+Third year,Male,0.0,7.5,1.5,0,2,3,4,3,1.5,1.5,5.5,High stress,Poor
+Third year,Female,1.5,7.5,0.0,1,2,4,3,4,1.5,1.5,7.0,High stress,Below Average
+Graduate student,Male,1.5,10.0,1.5,0,4,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,3.5,6.5,3.5,0,2,2,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Female,1.5,7.5,3.5,3,3,2,3,3,0.0,0.0,7.0,High stress,Below Average
+Third year,Female,1.5,7.5,1.5,0,3,3,2,3,0.0,0.0,5.5,High stress,Poor
+Third year,Female,1.5,7.5,1.5,1,3,3,3,3,1.5,1.5,5.5,High stress,Excellent
+Graduate student,Male,0.0,10.0,0.0,4,4,4,3,4,1.5,0.0,7.0,High stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,1,3,4,3,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Third year,Male,0.0,10.0,1.5,0,3,4,4,3,1.5,0.0,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,4,3,3,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,1.5,1,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Female,1.5,7.5,3.5,0,3,3,4,3,0.0,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,10.0,1.5,4,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,3,2,3,2,0.0,1.5,3.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,0.0,0,3,4,3,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,2,4,3,3,1.5,0.0,5.5,Extremely high stress,Poor
+Third year,Female,0.0,7.5,0.0,0,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Third year,Male,0.0,7.5,0.0,0,3,3,3,3,1.5,0.0,7.0,High stress,Poor
+Third year,Female,0.0,6.5,1.5,0,3,4,3,3,1.5,3.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,0,3,2,3,3,1.5,1.5,3.5,High stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,4,4,3,4,1.5,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Female,0.0,10.0,0.0,4,4,4,3,4,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,3,3,3,3,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,0,4,3,3,3,0.0,1.5,5.5,Extremely high stress,Poor
+Second year,Male,1.5,10.0,0.0,0,3,3,3,4,1.5,1.5,5.5,Extremely high stress,Below Average
+First year,Female,0.0,10.0,1.5,0,3,3,3,2,1.5,3.5,5.5,High stress,Poor
+Second year,Female,1.5,7.5,0.0,0,4,4,4,4,1.5,1.5,5.5,High stress,Poor
+Third year,Male,1.5,10.0,3.5,2,3,4,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Female,1.5,7.5,3.5,0,3,3,3,2,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,0,4,2,4,3,1.5,0.0,7.0,Extremely high stress,Poor
+Third year,Female,3.5,7.5,1.5,0,3,4,3,3,1.5,0.0,7.0,High stress,Poor
+Third year,Male,1.5,7.5,1.5,0,4,2,3,4,1.5,0.0,7.0,Extremely high stress,Poor
+Third year,Male,1.5,6.5,7.0,1,3,3,3,3,1.5,0.0,5.5,High stress,Poor
+Third year,Male,0.0,7.5,1.5,0,3,3,3,3,1.5,0.0,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,10.0,0.0,0,3,4,3,1,1.5,0.0,5.5,High stress,Poor
+Third year,Male,1.5,7.5,0.0,0,3,4,4,4,1.5,0.0,7.0,Extremely high stress,Below Average
+Third year,Female,0.0,10.0,0.0,0,3,3,3,4,0.0,0.0,3.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,0.0,0,3,3,4,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,0.0,4,4,4,3,3,0.0,0.0,5.5,High stress,Poor
+Third year,Male,0.0,10.0,0.0,0,4,3,3,4,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,0.0,10.0,1.5,0,4,4,3,3,1.5,1.5,5.5,Extremely high stress,Below Average
+First year,Female,1.5,10.0,1.5,0,3,4,4,3,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Female,1.5,7.5,1.5,0,3,3,2,3,3.5,3.5,5.5,Extremely high stress,Poor
+Graduate student,Male,1.5,6.5,3.5,0,3,3,4,3,3.5,1.5,7.0,Extremely high stress,Average
+First year,Female,0.0,2.0,0.0,0,3,2,3,3,3.5,3.5,1.5,Extremely high stress,Poor
+Third year,Male,1.5,7.5,0.0,1,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Third year,Male,0.0,10.0,1.5,1,3,3,3,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Third year,Female,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,3.5,High stress,Below Average
+Third year,Male,0.0,7.5,1.5,1,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,10.0,0.0,1,3,3,3,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,1.5,1,3,3,3,4,1.5,3.5,5.5,High stress,Poor
+Third year,Male,1.5,10.0,1.5,1,3,3,3,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Third year,Male,0.0,7.5,0.0,0,3,3,3,3,0.0,1.5,5.5,Extremely high stress,Below Average
+Third year,Male,1.5,7.5,1.5,1,3,3,3,3,1.5,1.5,7.0,High stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Third year,Male,1.5,7.5,0.0,1,3,3,3,3,0.0,1.5,5.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,1,3,3,3,2,1.5,1.5,5.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,1,2,4,4,4,3.5,0.0,7.0,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,1,3,4,4,3,0.0,1.5,5.5,High stress,Below Average
+Third year,Female,1.5,7.5,0.0,1,3,3,4,4,1.5,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,1.5,10.0,1.5,0,3,2,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,10.0,3.5,1,4,3,4,4,0.0,1.5,5.5,High stress,Poor
+Graduate student,Male,1.5,7.5,0.0,1,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Female,1.5,7.5,1.5,1,3,4,3,4,0.0,1.5,5.5,Extremely high stress,Poor
+Third year,Female,7.0,2.0,7.0,3,3,2,0,2,0.0,7.0,5.5,High stress,Excellent
+Third year,Female,0.0,10.0,0.0,0,3,1,4,1,3.5,5.5,1.5,High stress,Average
+Third year,Male,1.5,7.5,1.5,1,3,3,3,3,1.5,1.5,7.0,Extremely high stress,Poor
+Third year,Male,0.0,7.5,1.5,0,4,3,3,3,1.5,1.5,5.5,High stress,Poor
+Second year,Male,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,10.0,1.5,1,3,3,3,3,0.0,0.0,7.0,High stress,Below Average
+Third year,Male,1.5,10.0,0.0,1,3,3,3,4,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,1.5,1,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Third year,Male,0.0,7.5,1.5,1,4,3,3,2,1.5,1.5,5.5,High stress,Good
+Second year,Female,0.0,7.5,0.0,4,3,4,3,3,0.0,0.0,5.5,High stress,Poor
+Graduate student,Female,1.5,7.5,1.5,1,4,4,4,4,1.5,1.5,5.5,Extremely high stress,Poor
+Third year,Female,1.5,7.5,1.5,0,4,3,4,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,4,3,4,3,1.5,0.0,5.5,High stress,Poor
+Third year,Male,1.5,7.5,0.0,1,3,4,4,3,1.5,0.0,7.0,Extremely high stress,Below Average
+Third year,Female,1.5,7.5,1.5,1,2,2,2,2,3.5,3.5,3.5,Low stress,Good
+Graduate student,Male,0.0,7.5,0.0,3,3,3,3,4,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,0,3,3,3,2,1.5,1.5,5.5,High stress,Poor
+Third year,Female,5.5,5.5,5.5,1,1,1,1,1,1.5,3.5,5.5,Low stress,Good
+Graduate student,Male,1.5,7.5,1.5,1,3,4,3,3,1.5,1.5,5.5,High stress,Poor
+Third year,Female,7.0,2.0,7.0,3,0,1,2,1,5.5,7.0,1.5,Low stress,Good
+Third year,Male,1.5,7.5,1.5,1,3,3,4,3,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,1,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,0.0,10.0,1.5,1,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Female,1.5,7.5,1.5,1,4,4,3,4,1.5,0.0,7.0,High stress,Below Average
+First year,Female,3.5,10.0,3.5,1,3,3,3,3,1.5,0.0,7.0,Extremely high stress,Poor
+Third year,Male,1.5,7.5,1.5,2,3,3,3,3,1.5,1.5,5.5,Extremely high stress,Average
+Third year,Male,0.0,10.0,0.0,1,3,3,3,3,1.5,0.0,5.5,High stress,Average
+Third year,Female,3.5,10.0,0.0,0,3,4,3,3,0.0,1.5,7.0,Extremely high stress,Poor
+Third year,Male,0.0,6.5,1.5,1,4,2,3,2,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,0.0,0,3,3,3,4,1.5,1.5,7.0,High stress,Below Average
+Third year,Male,1.5,10.0,1.5,0,4,3,3,3,0.0,0.0,7.0,High stress,Below Average
+Graduate student,Female,1.5,7.5,0.0,1,4,3,2,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Third year,Male,0.0,7.5,0.0,0,3,4,4,4,1.5,1.5,5.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,1,2,4,2,3,1.5,0.0,5.5,High stress,Below Average
+Second year,Male,1.5,10.0,1.5,0,2,4,4,4,1.5,1.5,3.5,Extremely high stress,Below Average
+Second year,Male,0.0,7.5,1.5,1,2,3,3,4,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,0.0,1,3,3,3,4,1.5,1.5,5.5,Extremely high stress,Below Average
+Third year,Male,1.5,10.0,0.0,1,3,3,4,4,1.5,1.5,7.0,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,1,3,3,4,3,0.0,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,10.0,0.0,1,3,4,3,4,1.5,1.5,7.0,High stress,Below Average
+Graduate student,Male,1.5,7.5,0.0,4,3,3,4,3,1.5,1.5,7.0,High stress,Poor
+Third year,Male,1.5,10.0,0.0,0,3,3,3,3,1.5,1.5,7.0,Extremely high stress,Poor
+Third year,Female,5.5,5.5,5.5,3,0,3,2,2,3.5,1.5,5.5,High stress,Average
+Third year,Male,0.0,7.5,1.5,1,4,3,3,3,0.0,0.0,5.5,High stress,Below Average
+Third year,Female,7.0,2.0,7.0,3,2,1,1,1,5.5,5.5,3.5,High stress,Good
+Third year,Male,1.5,7.5,0.0,2,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Third year,Male,3.5,10.0,0.0,0,4,4,3,3,3.5,1.5,5.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,0,3,2,3,3,1.5,1.5,7.0,High stress,Poor
+Third year,Female,5.5,5.5,7.0,4,0,2,3,2,3.5,3.5,1.5,High stress,Average
+Second year,Male,1.5,7.5,1.5,1,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,2,3,3,3,3,1.5,1.5,5.5,High stress,Average
+Third year,Male,1.5,7.5,1.5,1,3,4,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,10.0,0.0,1,3,3,3,4,0.0,0.0,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,7.5,1.5,1,3,4,3,3,1.5,1.5,5.5,High stress,Poor
+Third year,Male,1.5,10.0,0.0,1,3,3,3,4,0.0,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Female,1.5,7.5,1.5,3,4,3,4,3,0.0,1.5,5.5,Extremely high stress,Poor
+Third year,Male,1.5,10.0,0.0,0,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,1.5,7.5,1.5,1,2,3,3,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,1.5,1,3,3,3,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,10.0,0.0,1,3,2,1,3,3.5,1.5,1.5,High stress,Poor
+Third year,Male,1.5,10.0,1.5,2,3,3,3,3,1.5,1.5,5.5,High stress,Average
+Third year,Male,1.5,7.5,1.5,2,3,3,3,3,1.5,1.5,5.5,High stress,Average
+Third year,Male,1.5,7.5,1.5,3,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,3,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,2,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,0.0,10.0,1.5,0,2,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,2,4,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,0.0,1,3,4,4,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,0.0,6.5,1.5,1,3,3,3,3,1.5,0.0,5.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,1,3,3,3,3,1.5,1.5,3.5,High stress,Below Average
+Graduate student,Male,0.0,7.5,1.5,1,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,1,3,3,3,4,1.5,1.5,5.5,High stress,Poor
+Third year,Male,1.5,10.0,1.5,1,3,4,3,3,3.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Female,0.0,7.5,0.0,4,3,3,4,4,1.5,1.5,5.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,0,3,4,3,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,0.0,1,3,3,2,3,0.0,0.0,7.0,High stress,Poor
+Graduate student,Male,1.5,7.5,0.0,1,3,4,3,4,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,1.5,7.5,0.0,1,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,1.5,10.0,1.5,1,3,3,3,3,1.5,1.5,5.5,Extremely high stress,Poor
+Third year,Male,1.5,7.5,0.0,1,4,3,4,4,0.0,0.0,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,1,4,3,3,3,0.0,0.0,7.0,High stress,Poor
+Third year,Male,3.5,7.5,1.5,1,3,4,4,3,1.5,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,10.0,1.5,1,3,4,3,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,0.0,1,3,2,3,3,1.5,1.5,5.5,Extremely high stress,Poor
+Second year,Male,1.5,10.0,1.5,1,3,4,3,4,0.0,1.5,7.0,High stress,Below Average
+Graduate student,Male,0.0,7.5,0.0,0,4,3,4,4,1.5,0.0,5.5,High stress,Below Average
+Third year,Female,0.0,7.5,1.5,0,3,4,4,3,1.5,0.0,7.0,High stress,Average
+Graduate student,Male,0.0,10.0,0.0,0,3,3,3,3,0.0,0.0,7.0,High stress,Below Average
+Third year,Male,1.5,7.5,0.0,1,4,3,3,3,0.0,0.0,7.0,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,1,3,4,3,3,0.0,0.0,5.5,Extremely high stress,Poor
+Third year,Male,0.0,6.5,1.5,0,3,3,4,4,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,0,3,3,4,4,1.5,0.0,7.0,High stress,Average
+Graduate student,Male,0.0,7.5,1.5,0,3,4,4,4,0.0,1.5,7.0,Extremely high stress,Poor
+Third year,Male,1.5,10.0,0.0,0,3,3,4,3,1.5,0.0,5.5,High stress,Below Average
+Graduate student,Female,0.0,7.5,1.5,0,2,2,3,4,0.0,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,3,3,3,3,0.0,1.5,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,1,2,4,4,4,0.0,1.5,5.5,Extremely high stress,Poor
+Third year,Male,1.5,7.5,1.5,1,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,0,3,3,3,3,1.5,0.0,5.5,High stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,0,3,3,3,3,1.5,0.0,5.5,High stress,Poor
+Third year,Male,1.5,7.5,1.5,0,4,4,4,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,1.5,10.0,0.0,1,4,4,3,4,0.0,1.5,5.5,High stress,Poor
+Third year,Female,3.5,10.0,0.0,0,3,3,3,3,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,10.0,0.0,0,3,3,3,4,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,0.0,10.0,1.5,0,4,3,3,3,1.5,0.0,5.5,High stress,Below Average
+Third year,Female,0.0,7.5,0.0,0,3,4,3,3,0.0,1.5,5.5,High stress,Below Average
+Third year,Male,0.0,7.5,0.0,1,3,3,3,3,1.5,0.0,5.5,High stress,Poor
+Graduate student,Male,0.0,7.5,1.5,1,3,3,3,3,0.0,1.5,7.0,High stress,Average
+Graduate student,Male,0.0,7.5,1.5,0,4,3,3,4,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,7.5,1.5,1,4,4,4,3,1.5,1.5,5.5,Extremely high stress,Poor
+Third year,Female,0.0,7.5,1.5,0,4,3,3,3,1.5,1.5,7.0,Extremely high stress,Poor
+Third year,Male,1.5,7.5,1.5,0,4,4,3,3,0.0,0.0,7.0,Extremely high stress,Below Average
+Third year,Male,0.0,7.5,1.5,0,4,3,3,3,0.0,1.5,7.0,High stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,0,3,4,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,7.5,0.0,0,4,3,3,4,1.5,1.5,7.0,High stress,Below Average
+Graduate student,Male,1.5,10.0,0.0,0,4,3,3,3,1.5,0.0,7.0,High stress,Poor
+Graduate student,Male,0.0,7.5,0.0,0,3,3,3,3,0.0,0.0,7.0,Extremely high stress,Poor
+Third year,Female,0.0,7.5,1.5,0,4,4,4,3,0.0,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Female,1.5,7.5,0.0,1,3,3,3,3,1.5,0.0,7.0,Extremely high stress,Average
+Graduate student,Male,0.0,10.0,1.5,0,4,4,4,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,0,3,3,4,4,0.0,0.0,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,0.0,0,2,3,3,4,1.5,0.0,5.5,Extremely high stress,Below Average
+Third year,Male,1.5,7.5,1.5,1,4,3,4,4,1.5,1.5,7.0,Extremely high stress,Poor
+Third year,Female,1.5,7.5,0.0,0,4,4,3,3,0.0,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,1,3,3,3,3,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,2,4,3,3,0.0,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,0.0,4,3,3,3,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,3,3,4,4,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,1.5,10.0,0.0,0,4,3,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,7.5,1.5,1,4,3,3,4,0.0,3.5,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,3,4,4,3,0.0,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,7.5,1.5,1,4,3,4,4,0.0,0.0,7.0,High stress,Poor
+Third year,Male,0.0,10.0,1.5,0,4,4,4,3,1.5,0.0,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,1,3,4,4,4,0.0,0.0,7.0,High stress,Poor
+Graduate student,Male,0.0,7.5,0.0,1,4,3,4,3,0.0,0.0,7.0,Extremely high stress,Below Average
+Third year,Male,0.0,7.5,1.5,1,4,3,4,4,1.5,0.0,7.0,Extremely high stress,Below Average
+Third year,Male,1.5,10.0,0.0,0,3,3,3,4,0.0,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,0,4,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,1,3,3,3,3,1.5,0.0,5.5,High stress,Poor
+Graduate student,Male,1.5,7.5,0.0,0,3,3,3,3,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,1.5,1,3,3,4,4,1.5,1.5,7.0,High stress,Poor
+Third year,Male,1.5,10.0,0.0,1,4,3,3,2,0.0,0.0,7.0,Extremely high stress,Below Average
+Third year,Male,0.0,7.5,3.5,4,2,3,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,0.0,7.5,0.0,0,3,3,3,4,0.0,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,1,3,3,3,3,0.0,0.0,3.5,Extremely high stress,Below Average
+Third year,Male,0.0,10.0,0.0,0,4,3,3,3,0.0,1.5,7.0,Extremely high stress,Average
+Graduate student,Male,0.0,10.0,1.5,4,3,4,3,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,10.0,1.5,0,4,3,4,4,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,0.0,2,3,3,3,4,0.0,0.0,7.0,High stress,Below Average
+Third year,Male,0.0,10.0,1.5,1,3,3,3,4,1.5,0.0,5.5,Extremely high stress,Poor
+Second year,Female,1.5,10.0,0.0,0,4,3,3,4,3.5,0.0,5.5,High stress,Below Average
+Third year,Male,1.5,7.5,1.5,1,3,4,3,4,1.5,1.5,5.5,Extremely high stress,Poor
+Second year,Female,0.0,10.0,1.5,0,3,3,4,4,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Female,1.5,7.5,1.5,0,2,3,3,3,0.0,1.5,5.5,Extremely high stress,Below Average
+Third year,Male,0.0,7.5,1.5,1,3,4,3,3,1.5,0.0,5.5,Extremely high stress,Below Average
+Third year,Male,0.0,7.5,1.5,1,4,3,3,3,0.0,1.5,7.0,High stress,Below Average
+Third year,Male,1.5,7.5,0.0,0,4,4,4,4,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,10.0,0.0,0,3,4,3,3,0.0,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,1,2,3,4,4,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,0.0,7.5,1.5,2,3,4,4,3,1.5,0.0,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,0.0,1,3,3,3,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,0,4,3,4,3,1.5,0.0,5.5,High stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,1,4,3,3,3,1.5,1.5,5.5,Extremely high stress,Poor
+Third year,Male,1.5,7.5,1.5,0,2,3,3,4,1.5,1.5,5.5,High stress,Poor
+Third year,Male,0.0,7.5,0.0,1,3,3,4,3,0.0,0.0,7.0,Extremely high stress,Average
+Third year,Male,0.0,7.5,1.5,2,3,4,3,4,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,0.0,7.5,1.5,0,3,3,3,4,1.5,1.5,5.5,Extremely high stress,Below Average
+Third year,Male,1.5,10.0,1.5,1,3,4,2,3,1.5,1.5,5.5,Extremely high stress,Poor
+Third year,Male,1.5,7.5,1.5,0,3,4,4,2,1.5,1.5,5.5,High stress,Average
+Third year,Female,1.5,7.5,1.5,0,4,3,3,3,1.5,3.5,5.5,High stress,Poor
+Graduate student,Male,0.0,7.5,1.5,0,3,3,3,3,1.5,0.0,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,4,4,3,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,3,3,3,2,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,0.0,7.5,0.0,1,3,2,4,3,1.5,1.5,7.0,Extremely high stress,Poor
+Third year,Male,1.5,7.5,0.0,3,4,4,4,4,0.0,0.0,5.5,High stress,Below Average
+Third year,Male,0.0,10.0,0.0,1,2,4,3,3,0.0,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,4,3,2,3,1.5,0.0,7.0,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,0,3,2,3,2,1.5,3.5,3.5,High stress,Poor
+Third year,Male,1.5,7.5,0.0,1,3,2,2,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Female,3.5,10.0,0.0,0,3,3,3,3,1.5,1.5,5.5,High stress,Poor
+Graduate student,Male,1.5,7.5,1.5,0,4,3,3,3,3.5,1.5,5.5,Extremely high stress,Below Average
+Second year,Male,1.5,7.5,1.5,0,3,3,3,3,0.0,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,3,3,3,3,3,0.0,3.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,4,3,3,3,4,0.0,0.0,7.0,Extremely high stress,Poor
+Third year,Male,1.5,7.5,1.5,1,4,3,3,3,0.0,1.5,7.0,High stress,Poor
+Graduate student,Male,0.0,10.0,0.0,0,3,4,3,4,0.0,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,1.5,7.5,0.0,1,3,4,4,4,0.0,0.0,7.0,High stress,Poor
+Third year,Male,1.5,10.0,1.5,4,4,3,3,4,0.0,0.0,7.0,High stress,Poor
+Graduate student,Male,1.5,10.0,0.0,0,3,4,3,3,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,0,3,3,4,4,0.0,1.5,5.5,Extremely high stress,Poor
+Graduate student,Female,0.0,10.0,1.5,0,3,4,3,4,0.0,0.0,7.0,Extremely high stress,Poor
+Third year,Male,0.0,10.0,0.0,0,3,3,3,4,0.0,0.0,5.5,Extremely high stress,Poor
+Third year,Male,1.5,10.0,0.0,0,3,4,4,4,0.0,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,0,3,4,4,3,1.5,0.0,5.5,Extremely high stress,Poor
+Third year,Male,0.0,10.0,0.0,0,4,4,3,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,1,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Below Average
+Third year,Male,0.0,7.5,0.0,4,4,3,3,4,1.5,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Male,1.5,10.0,0.0,0,3,3,4,4,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,3.5,0,3,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,0.0,1,3,4,4,3,0.0,0.0,5.5,Extremely high stress,Poor
+Graduate student,Male,1.5,10.0,1.5,4,4,4,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,10.0,1.5,0,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Female,0.0,7.5,1.5,0,4,3,4,4,1.5,0.0,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,0.0,0,4,4,3,3,0.0,0.0,7.0,High stress,Poor
+Graduate student,Male,1.5,10.0,0.0,1,4,4,4,4,0.0,0.0,7.0,High stress,Below Average
+Second year,Female,1.5,10.0,1.5,0,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,3.5,1,4,3,4,2,0.0,1.5,7.0,High stress,Below Average
+Third year,Male,0.0,10.0,1.5,3,3,3,3,3,1.5,0.0,5.5,Extremely high stress,Poor
+Third year,Male,3.5,6.5,5.5,2,2,1,2,2,3.5,1.5,3.5,High stress,Poor
+Graduate student,Female,0.0,10.0,0.0,3,2,3,3,3,0.0,1.5,7.0,Extremely high stress,Below Average
+Second year,Male,5.5,7.5,7.0,1,1,1,1,1,5.5,5.5,1.5,High stress,Below Average
+Graduate student,Male,0.0,7.5,1.5,4,4,3,3,4,1.5,1.5,7.0,High stress,Poor
+Third year,Male,3.5,5.5,3.5,2,1,3,3,3,1.5,0.0,5.5,High stress,Poor
+Third year,Male,1.5,7.5,0.0,3,3,3,3,3,0.0,0.0,7.0,Extremely high stress,Below Average
+Graduate student,Female,1.5,7.5,1.5,3,3,4,3,3,1.5,0.0,5.5,Extremely high stress,Below Average
+Second year,Female,1.5,6.5,1.5,0,3,3,4,4,1.5,0.0,7.0,High stress,Below Average
+Third year,Female,0.0,10.0,0.0,3,3,3,4,4,1.5,1.5,7.0,High stress,Below Average
+Graduate student,Male,1.5,7.5,3.5,3,3,3,3,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,3.5,5.5,3.5,2,1,0,1,2,1.5,3.5,3.5,High stress,Poor
+Third year,Male,0.0,6.5,1.5,0,4,3,4,3,1.5,3.5,7.0,Extremely high stress,Below Average
+Second year,Female,3.5,6.5,3.5,2,2,2,2,3,3.5,3.5,3.5,Low stress,Poor
+Graduate student,Male,0.0,7.5,1.5,3,3,2,4,3,0.0,0.0,7.0,High stress,Poor
+Third year,Male,3.5,6.5,3.5,2,2,2,2,2,7.0,5.5,3.5,Extremely high stress,Below Average
+Third year,Male,0.0,6.5,0.0,4,4,2,3,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,7.5,0.0,4,4,3,3,3,1.5,0.0,5.5,Extremely high stress,Below Average
+Third year,Male,1.5,6.5,1.5,2,4,3,3,3,1.5,1.5,1.5,Extremely high stress,Poor
+Third year,Male,1.5,10.0,0.0,1,4,4,3,3,1.5,1.5,5.5,Extremely high stress,Below Average
+Second year,Male,1.5,10.0,3.5,2,1,1,4,4,5.5,3.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,6.5,1.5,4,3,3,3,4,3.5,0.0,7.0,Extremely high stress,Poor
+Third year,Female,3.5,6.5,5.5,1,3,2,2,3,1.5,1.5,5.5,High stress,Poor
+Third year,Male,3.5,7.5,0.0,4,2,4,3,4,0.0,1.5,7.0,High stress,Poor
+Graduate student,Male,5.5,6.5,5.5,4,4,2,2,1,0.0,0.0,7.0,Extremely high stress,Poor
+Third year,Female,3.5,10.0,0.0,4,3,2,3,4,1.5,0.0,7.0,Extremely high stress,Poor
+Third year,Female,0.0,7.5,1.5,3,3,3,4,4,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Female,3.5,7.5,3.5,2,2,2,1,2,3.5,1.5,5.5,High stress,Below Average
+Third year,Male,0.0,6.5,1.5,3,3,2,3,3,1.5,0.0,7.0,Extremely high stress,Poor
+Second year,Female,3.5,6.5,3.5,3,2,3,2,2,3.5,3.5,3.5,High stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,3,3,3,2,3,0.0,0.0,7.0,Extremely high stress,Below Average
+Third year,Male,3.5,5.5,3.5,2,4,3,3,2,1.5,3.5,3.5,High stress,Below Average
+Graduate student,Male,0.0,7.5,1.5,4,3,4,3,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,1.5,10.0,1.5,4,3,3,3,4,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Female,1.5,7.5,1.5,2,4,2,3,1,5.5,5.5,3.5,High stress,Below Average
+Third year,Male,0.0,7.5,0.0,4,2,3,3,3,1.5,3.5,7.0,Extremely high stress,Poor
+Third year,Female,3.5,5.5,3.5,2,2,3,2,2,1.5,3.5,1.5,Low stress,Below Average
+Graduate student,Female,3.5,5.5,3.5,2,4,4,4,4,0.0,0.0,7.0,Extremely high stress,Poor
+Third year,Female,1.5,6.5,1.5,3,3,3,3,3,1.5,0.0,7.0,Extremely high stress,Below Average
+Third year,Female,3.5,5.5,5.5,1,0,0,2,2,3.5,1.5,3.5,Low stress,Poor
+Third year,Female,1.5,7.5,1.5,4,3,3,3,2,1.5,0.0,7.0,Extremely high stress,Poor
+First year,Male,3.5,6.5,5.5,3,3,2,3,3,3.5,3.5,3.5,Extremely high stress,Below Average
+Graduate student,Male,0.0,10.0,0.0,4,2,4,4,3,1.5,1.5,7.0,Extremely high stress,Poor
+Graduate student,Female,1.5,6.5,1.5,2,2,2,2,2,1.5,1.5,5.5,High stress,Good
+Third year,Female,1.5,7.5,3.5,4,2,2,2,2,5.5,3.5,3.5,Extremely high stress,Below Average
+Graduate student,Male,5.5,7.5,3.5,0,2,3,2,1,3.5,5.5,1.5,No stress,Below Average
+Graduate student,Male,1.5,7.5,0.0,4,4,4,4,4,1.5,0.0,5.5,Extremely high stress,Below Average
+Third year,Female,3.5,6.5,1.5,3,2,2,3,2,3.5,5.5,1.5,High stress,Poor
+Third year,Male,0.0,7.5,1.5,3,3,2,3,3,0.0,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,3.5,6.5,5.5,3,2,2,2,2,1.5,5.5,5.5,Extremely high stress,Below Average
+First year,Female,0.0,10.0,1.5,1,3,3,3,4,1.5,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Female,3.5,6.5,1.5,4,4,4,4,2,3.5,1.5,5.5,Extremely high stress,Poor
+First year,Female,1.5,7.5,1.5,1,4,2,3,4,0.0,1.5,5.5,Extremely high stress,Poor
+Graduate student,Female,5.5,6.5,3.5,2,2,2,2,2,3.5,1.5,3.5,Extremely high stress,Poor
+Third year,Male,1.5,7.5,0.0,4,4,4,4,4,1.5,0.0,7.0,Extremely high stress,Below Average
+Third year,Male,3.5,5.5,5.5,1,3,2,1,2,3.5,3.5,3.5,Low stress,Below Average
+Graduate student,Female,0.0,7.5,1.5,4,3,3,4,3,1.5,0.0,5.5,High stress,Average
+Graduate student,Female,0.0,10.0,0.0,4,3,4,3,4,0.0,0.0,7.0,Extremely high stress,Poor
+Second year,Female,3.5,7.5,3.5,2,2,1,2,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,1.5,6.5,1.5,3,3,2,3,4,0.0,0.0,7.0,Extremely high stress,Poor
+Second year,Male,3.5,6.5,5.5,0,0,2,1,2,5.5,3.5,0.0,High stress,Below Average
+Graduate student,Female,1.5,10.0,1.5,4,4,4,4,3,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,3.5,6.5,7.0,1,2,3,1,2,3.5,3.5,3.5,Low stress,Good
+Graduate student,Male,1.5,10.0,1.5,4,4,4,4,3,0.0,1.5,7.0,Extremely high stress,Below Average
+Second year,Female,3.5,7.5,5.5,1,0,0,2,2,5.5,5.5,3.5,High stress,Average
+Graduate student,Male,0.0,7.5,1.5,4,4,4,3,4,0.0,0.0,7.0,Extremely high stress,Average
+Second year,Male,7.0,6.5,5.5,3,4,0,2,2,3.5,7.0,1.5,Low stress,Poor
+Second year,Female,7.0,7.5,7.0,0,0,0,0,0,7.0,7.0,0.0,No stress,Good
+Second year,Female,0.0,10.0,0.0,4,4,4,4,4,1.5,1.5,7.0,Extremely high stress,Poor
+Second year,Female,3.5,5.5,7.0,0,2,1,1,1,0.0,7.0,3.5,Extremely high stress,Poor
+Third year,Female,0.0,7.5,3.5,4,1,4,4,4,1.5,0.0,7.0,Extremely high stress,Below Average
+Second year,Male,0.0,7.5,1.5,4,4,4,4,3,5.5,5.5,0.0,High stress,Average
+Graduate student,Female,3.5,7.5,0.0,4,2,2,2,4,1.5,0.0,5.5,Extremely high stress,Below Average
+Graduate student,Female,7.0,2.0,1.5,0,2,0,2,1,3.5,3.5,3.5,Low stress,Good
+First year,Female,3.5,2.0,7.0,1,0,1,4,2,7.0,3.5,3.5,High stress,Average
+Graduate student,Female,1.5,7.5,1.5,3,3,3,3,4,0.0,0.0,3.5,Extremely high stress,Poor
+Graduate student,Female,3.5,10.0,3.5,2,2,1,3,2,3.5,0.0,5.5,High stress,Average
+Third year,Female,0.0,7.5,0.0,4,4,3,3,3,1.5,1.5,7.0,High stress,Poor
+Second year,Female,3.5,2.0,5.5,1,1,1,1,2,7.0,5.5,0.0,Low stress,Average
+Third year,Female,3.5,5.5,7.0,1,1,0,0,2,5.5,3.5,3.5,Extremely high stress,Poor
+Third year,Male,1.5,7.5,1.5,3,3,3,3,3,0.0,0.0,7.0,Extremely high stress,Below Average
+Third year,Female,1.5,5.5,7.0,1,0,1,2,1,3.5,3.5,5.5,Low stress,Average
+Third year,Male,1.5,7.5,1.5,3,3,3,4,4,1.5,1.5,7.0,Extremely high stress,Average
+Third year,Male,3.5,6.5,5.5,2,1,2,1,0,5.5,5.5,5.5,High stress,Below Average
+Third year,Female,1.5,10.0,1.5,3,3,3,3,4,1.5,0.0,7.0,High stress,Below Average
+Second year,Female,1.5,10.0,3.5,2,1,0,1,0,3.5,3.5,3.5,High stress,Average
+Third year,Male,0.0,10.0,0.0,4,4,4,3,4,0.0,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,1.5,10.0,3.5,1,0,0,0,1,7.0,1.5,5.5,High stress,Below Average
+Graduate student,Male,1.5,7.5,1.5,3,3,3,4,4,1.5,0.0,5.5,Extremely high stress,Average
+Third year,Female,3.5,6.5,5.5,1,0,0,2,1,3.5,5.5,1.5,High stress,Average
+Third year,Female,1.5,7.5,1.5,0,2,1,2,2,5.5,5.5,0.0,No stress,Excellent
+Third year,Male,3.5,7.5,1.5,3,3,4,4,3,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Male,0.0,7.5,1.5,3,3,3,3,3,0.0,0.0,5.5,Extremely high stress,Poor
+Second year,Female,1.5,5.5,5.5,0,2,0,1,1,5.5,1.5,3.5,High stress,Good
+Graduate student,Female,1.5,7.5,0.0,3,3,3,2,2,0.0,1.5,7.0,Extremely high stress,Below Average
+Third year,Male,5.5,10.0,1.5,4,3,2,2,1,7.0,5.5,3.5,High stress,Average
+Third year,Male,0.0,7.5,1.5,4,4,4,4,3,0.0,1.5,5.5,High stress,Below Average
+Second year,Male,5.5,6.5,1.5,3,2,2,1,2,3.5,3.5,3.5,Low stress,Average
+Graduate student,Male,0.0,7.5,0.0,4,2,3,4,4,0.0,1.5,7.0,Extremely high stress,Below Average
+Third year,Female,3.5,5.5,7.0,0,0,1,0,2,3.5,5.5,1.5,High stress,Average
+Third year,Female,0.0,7.5,0.0,4,3,4,3,3,1.5,0.0,5.5,Extremely high stress,Poor
+Third year,Male,1.5,7.5,0.0,3,4,3,3,3,0.0,1.5,5.5,High stress,Average
+Graduate student,Female,3.5,5.5,5.5,1,2,2,1,3,1.5,5.5,3.5,High stress,Good
+First year,Male,3.5,2.0,5.5,3,2,0,0,0,7.0,3.5,7.0,High stress,Below Average
+Graduate student,Female,5.5,6.5,7.0,1,2,1,1,0,7.0,5.5,1.5,High stress,Good
+First year,Male,5.5,6.5,3.5,4,0,0,1,4,7.0,7.0,3.5,High stress,Excellent
+Third year,Female,3.5,2.0,0.0,3,4,4,4,3,1.5,1.5,5.5,Extremely high stress,Poor
+Graduate student,Female,1.5,10.0,3.5,0,0,0,1,2,7.0,5.5,1.5,Extremely high stress,Average
+Graduate student,Male,0.0,10.0,0.0,4,3,3,3,4,1.5,1.5,7.0,Extremely high stress,Below Average
+Graduate student,Female,5.5,2.0,7.0,1,0,0,1,0,7.0,5.5,1.5,No stress,Average
+Third year,Male,1.5,10.0,1.5,4,4,3,3,3,1.5,1.5,5.5,High stress,Below Average
+Graduate student,Female,7.0,5.5,3.5,4,3,2,2,1,5.5,7.0,0.0,High stress,Below Average
+Graduate student,Male,1.5,10.0,1.5,4,4,3,4,3,1.5,0.0,5.5,Extremely high stress,Below Average
+Graduate student,Female,3.5,5.5,3.5,2,2,3,1,2,3.5,3.5,1.5,Extremely high stress,Below Average
+Third year,Male,1.5,10.0,1.5,2,3,4,3,2,0.0,1.5,7.0,High stress,Poor
+Third year,Female,1.5,7.5,1.5,3,2,2,1,3,5.5,5.5,3.5,High stress,Good
+Second year,Male,5.5,10.0,0.0,3,4,3,4,3,0.0,1.5,5.5,Extremely high stress,Poor
+Second year,Female,1.5,7.5,3.5,3,1,0,2,1,5.5,3.5,3.5,Low stress,Below Average
+Second year,Male,3.5,6.5,3.5,3,1,2,3,4,0.0,0.0,3.5,Low stress,Excellent
+Graduate student,Female,3.5,7.5,0.0,4,2,3,3,3,3.5,1.5,5.5,High stress,Below Average
+Graduate student,Male,0.0,7.5,0.0,4,3,3,3,4,0.0,1.5,7.0,Extremely high stress,Poor
+Second year,Male,7.0,5.5,7.0,1,0,2,3,1,5.5,7.0,5.5,Extremely high stress,Good
+Graduate student,Female,1.5,5.5,5.5,1,2,0,0,0,7.0,5.5,1.5,No stress,Good
+Graduate student,Male,0.0,10.0,0.0,4,4,4,4,3,0.0,1.5,7.0,Extremely high stress,Poor
+Second year,Female,1.5,5.5,7.0,0,1,0,2,0,1.5,3.5,1.5,High stress,Poor
+Graduate student,Male,1.5,10.0,0.0,4,3,4,3,3,1.5,1.5,7.0,Extremely high stress,Average
+Third year,Female,3.5,5.5,5.5,1,1,0,1,1,3.5,5.5,3.5,Low stress,Excellent
+Second year,Female,3.5,5.5,5.5,0,2,0,0,1,7.0,3.5,5.5,Extremely high stress,Average
+Third year,Female,1.5,7.5,5.5,3,4,4,4,4,1.5,1.5,7.0,Extremely high stress,Below Average
+Third year,Female,0.0,10.0,0.0,4,2,3,3,4,0.0,1.5,7.0,Extremely high stress,Poor
+Second year,Female,3.5,10.0,1.5,2,0,0,1,1,5.5,1.5,7.0,Low stress,Average
+Third year,Female,0.0,10.0,1.5,4,3,3,3,2,1.5,0.0,7.0,Extremely high stress,Poor
+Third year,Female,5.5,5.5,3.5,2,1,2,1,0,3.5,1.5,5.5,Extremely high stress,Below Average
+Second year,Male,0.0,7.5,3.5,2,4,4,4,3,1.5,0.0,7.0,Extremely high stress,Below Average
+Second year,Male,1.5,6.5,5.5,1,0,1,2,2,5.5,7.0,3.5,Low stress,Below Average
+Third year,Male,0.0,7.5,1.5,4,3,2,3,4,0.0,1.5,7.0,Extremely high stress,Poor
+Third year,Female,1.5,7.5,3.5,2,1,2,3,1,1.5,5.5,3.5,Extremely high stress,Below Average
+Third year,Female,0.0,7.5,1.5,0,3,4,3,3,1.5,1.5,5.5,High stress,Below Average
+Second year,Female,3.5,6.5,1.5,3,2,1,2,2,1.5,5.5,3.5,High stress,Average
+Graduate student,Female,1.5,7.5,0.0,4,3,2,3,3,0.0,1.5,5.5,High stress,Below Average
+Second year,Female,1.5,6.5,5.5,3,2,2,2,2,3.5,3.5,3.5,High stress,Average
+Third year,Female,0.0,10.0,1.5,4,3,3,3,4,1.5,0.0,5.5,High stress,Poor
+Second year,Male,1.5,5.5,7.0,0,1,1,1,0,7.0,5.5,1.5,Extremely high stress,Below Average
+Graduate student,Female,1.5,10.0,0.0,4,2,4,2,4,0.0,0.0,5.5,Extremely high stress,Average
+Graduate student,Female,5.5,5.5,3.5,2,1,1,2,3,1.5,7.0,1.5,Low stress,Below Average
+Third year,Female,7.0,10.0,3.5,2,1,0,1,0,7.0,1.5,1.5,High stress,Average
+Third year,Male,3.5,2.0,7.0,1,0,1,3,3,3.5,1.5,7.0,Extremely high stress,Excellent
+Third year,Female,1.5,10.0,1.5,3,1,2,3,2,3.5,3.5,7.0,Extremely high stress,Good

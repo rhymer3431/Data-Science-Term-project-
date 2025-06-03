@@ -1,0 +1,997 @@
+,Year,Gender,Sleep Quality,Sleep Quantity,Sleep Impact,Lifestyle,Stress,GPA
+0,Graduate student,Male,0.3928571428571428,0.6875,0.625,0.5,High stress,Average
+1,Third year,Male,0.3928571428571428,0.6875,0.6875,0.5,Low stress,Good
+2,First year,Female,0.5833333333333334,0.6875,0.6875,0.40476190476190466,High stress,Below Average
+3,Third year,Male,0.4047619047619047,1.0,0.5,0.6666666666666666,Extremely high stress,Excellent
+4,Graduate student,Male,0.4761904761904761,0.6875,0.6875,0.40476190476190466,Low stress,Average
+5,Second year,Male,0.1428571428571428,0.6875,0.375,0.3095238095238095,High stress,Below Average
+6,Third year,Male,0.4880952380952381,0.6875,0.5,0.5238095238095238,No stress,Good
+7,Third year,Male,0.3214285714285714,1.0,0.6875,0.5952380952380952,Low stress,Good
+8,Third year,Male,0.4761904761904761,1.0,0.375,0.6904761904761904,Extremely high stress,Average
+9,Third year,Male,0.3333333333333333,1.0,0.875,0.5,High stress,Poor
+10,Second year,Female,0.15476190476190474,0.6875,0.6875,0.4047619047619047,High stress,Average
+11,Third year,Male,0.3928571428571428,1.0,0.75,0.3333333333333333,High stress,Average
+12,Second year,Male,0.22619047619047614,0.6875,0.375,0.7619047619047619,High stress,Average
+13,Second year,Female,0.4880952380952381,0.5625,0.625,0.4047619047619047,High stress,Below Average
+14,Second year,Male,0.4047619047619047,1.0,0.75,0.40476190476190466,High stress,Good
+15,Graduate student,Male,0.5833333333333334,0.4375,0.75,0.40476190476190466,High stress,Poor
+16,First year,Male,0.4047619047619047,1.0,0.3125,0.6904761904761904,Low stress,Good
+17,Third year,Male,0.23809523809523805,0.6875,0.6875,0.40476190476190466,High stress,Below Average
+18,Second year,Male,0.4880952380952381,0.5625,0.4375,0.5,High stress,Average
+19,Third year,Male,0.25,1.0,0.375,0.5,High stress,Average
+20,First year,Male,0.42857142857142855,0.6875,0.4375,0.5952380952380952,High stress,Excellent
+21,Third year,Male,0.3928571428571428,0.6875,0.625,0.5,High stress,Below Average
+22,Graduate student,Male,0.6904761904761904,0.4375,0.4375,0.5952380952380952,Low stress,Average
+23,Second year,Male,0.25,0.6875,0.625,0.3095238095238095,Extremely high stress,Good
+24,First year,Male,0.4880952380952381,0.6875,0.3125,0.5952380952380952,High stress,Good
+25,Second year,Male,0.6071428571428571,0.5625,0.4375,0.5952380952380952,Low stress,Excellent
+26,Graduate student,Male,0.3333333333333333,1.0,0.625,0.5,High stress,Average
+27,Second year,Female,0.3928571428571428,0.6875,0.5625,0.5952380952380952,High stress,Below Average
+28,Third year,Male,0.5833333333333334,0.6875,0.625,0.4047619047619047,High stress,Average
+29,Second year,Female,0.23809523809523805,0.6875,0.5625,0.3095238095238095,High stress,Good
+30,Second year,Female,0.3928571428571428,0.6875,0.6875,0.5952380952380952,Low stress,Average
+31,Third year,Male,0.3928571428571428,0.6875,0.4375,0.5,High stress,Below Average
+32,Third year,Male,0.4880952380952381,0.6875,0.5625,0.5,Low stress,Average
+33,Third year,Female,0.4047619047619047,0.6875,0.75,0.5952380952380952,Low stress,Good
+34,Second year,Male,0.22619047619047614,0.6875,0.6875,0.3095238095238095,High stress,Average
+35,Third year,Male,0.5,0.4375,0.625,0.40476190476190466,Low stress,Below Average
+36,Third year,Male,0.3214285714285714,1.0,0.5,0.42857142857142855,High stress,Poor
+37,Graduate student,Female,0.3214285714285714,0.6875,0.8125,0.40476190476190466,High stress,Below Average
+38,Second year,Female,0.1428571428571428,0.6875,0.5625,0.5,High stress,Average
+39,Third year,Male,0.3095238095238095,0.5625,0.75,0.40476190476190466,Extremely high stress,Average
+40,Third year,Female,0.4047619047619047,0.6875,0.5625,0.5,Low stress,Average
+41,Third year,Male,0.16666666666666666,1.0,0.5625,0.5952380952380952,High stress,Average
+42,Third year,Female,0.3095238095238095,0.6875,0.5625,0.4761904761904761,Extremely high stress,Average
+43,Third year,Male,0.4761904761904761,1.0,0.6875,0.4047619047619047,Extremely high stress,Below Average
+44,Third year,Male,0.3928571428571428,0.6875,0.6875,0.4047619047619047,High stress,Poor
+45,Third year,Female,0.3214285714285714,0.6875,0.625,0.5,High stress,Below Average
+46,Third year,Female,0.3214285714285714,1.0,0.625,0.3095238095238095,High stress,Average
+47,Third year,Male,0.08333333333333333,0.6875,0.6875,0.4047619047619047,High stress,Average
+48,Second year,Male,0.3928571428571428,1.0,0.625,0.40476190476190466,Low stress,Below Average
+49,Third year,Female,0.4880952380952381,0.6875,0.625,0.5,High stress,Average
+50,Third year,Female,0.4047619047619047,0.6875,0.5625,0.7857142857142857,Low stress,Average
+51,Third year,Female,0.1428571428571428,0.6875,0.625,0.40476190476190466,Extremely high stress,Below Average
+52,Third year,Female,0.4880952380952381,0.6875,0.625,0.4761904761904761,Extremely high stress,Below Average
+53,Third year,Female,0.5,0.0,0.8125,0.3333333333333333,Extremely high stress,Poor
+54,Second year,Female,0.3095238095238095,1.0,0.625,0.40476190476190466,Low stress,Poor
+55,Third year,Male,0.4880952380952381,0.6875,0.6875,0.3095238095238095,Extremely high stress,Poor
+56,Third year,Male,0.4047619047619047,0.6875,0.8125,0.5,Extremely high stress,Poor
+57,Third year,Male,0.3095238095238095,0.6875,0.6875,0.5,High stress,Poor
+58,Third year,Female,0.16666666666666666,1.0,0.8125,0.42857142857142855,Low stress,Poor
+59,Second year,Male,0.4047619047619047,0.6875,0.6875,0.4047619047619047,High stress,Poor
+60,Third year,Male,0.3928571428571428,1.0,0.6875,0.40476190476190466,High stress,Poor
+61,Third year,Female,0.3095238095238095,0.6875,0.6875,0.5,High stress,Poor
+62,Graduate student,Female,0.3214285714285714,0.6875,0.75,0.3333333333333333,High stress,Poor
+63,Third year,Female,0.4047619047619047,1.0,0.8125,0.5,High stress,Poor
+64,Second year,Female,0.15476190476190474,0.6875,0.375,0.5,High stress,Poor
+65,Third year,Male,0.5119047619047619,0.4375,0.25,0.5952380952380952,Low stress,Good
+66,Second year,Male,0.3214285714285714,0.6875,0.3125,0.49999999999999994,High stress,Poor
+67,Graduate student,Male,0.22619047619047614,0.6875,0.4375,0.5,High stress,Poor
+68,Second year,Male,0.4047619047619047,0.6875,0.625,0.5952380952380952,High stress,Poor
+69,Third year,Male,0.3928571428571428,0.6875,0.625,0.40476190476190466,High stress,Poor
+70,Graduate student,Male,0.3333333333333333,1.0,0.6875,0.4047619047619047,High stress,Poor
+71,Graduate student,Male,0.4047619047619047,0.6875,0.6875,0.40476190476190466,High stress,Poor
+72,Graduate student,Male,0.25,0.6875,0.75,0.40476190476190466,Low stress,Poor
+73,Third year,Male,0.4047619047619047,0.6875,0.5,0.40476190476190466,High stress,Poor
+74,Third year,Male,0.75,0.4375,0.5625,0.5952380952380952,High stress,Poor
+75,Third year,Female,0.4880952380952381,0.5625,0.375,0.5,High stress,Below Average
+76,Graduate student,Male,0.6666666666666666,0.6875,0.5625,0.6904761904761904,High stress,Poor
+77,Second year,Male,0.0714285714285714,1.0,0.3125,0.3095238095238095,Low stress,Poor
+78,Graduate student,Female,0.3333333333333333,0.6875,0.8125,0.40476190476190466,High stress,Below Average
+79,Third year,Female,0.0714285714285714,0.6875,0.75,0.40476190476190466,Low stress,Below Average
+80,Graduate student,Male,0.5,0.6875,0.75,0.5,Low stress,Below Average
+81,Graduate student,Male,0.3095238095238095,0.6875,0.6875,0.5,High stress,Below Average
+82,First year,Male,0.3928571428571428,0.6875,0.375,0.5714285714285714,High stress,Below Average
+83,Graduate student,Female,0.3214285714285714,0.6875,0.6875,0.5952380952380952,Low stress,Poor
+84,Graduate student,Male,0.0714285714285714,0.5625,0.8125,0.4047619047619047,No stress,Poor
+85,Graduate student,Male,0.4047619047619047,0.5625,0.8125,0.23809523809523805,High stress,Below Average
+86,First year,Male,0.3928571428571428,0.6875,0.625,0.5952380952380952,High stress,Poor
+87,Third year,Female,0.15476190476190474,0.6875,0.625,0.23809523809523805,High stress,Below Average
+88,First year,Female,0.08333333333333333,1.0,0.4375,0.5952380952380952,No stress,Poor
+89,Third year,Female,0.23809523809523805,0.6875,0.75,0.2142857142857142,High stress,Poor
+90,Third year,Female,0.3214285714285714,0.6875,0.75,0.5,High stress,Below Average
+91,Third year,Male,0.23809523809523805,0.6875,0.6875,0.5714285714285714,High stress,Below Average
+92,Third year,Female,0.4880952380952381,0.5625,0.6875,0.40476190476190466,Low stress,Average
+93,Graduate student,Female,0.3928571428571428,0.6875,0.5625,0.4761904761904761,Extremely high stress,Poor
+94,Graduate student,Female,0.4047619047619047,1.0,0.6875,0.40476190476190466,High stress,Below Average
+95,Third year,Male,0.4761904761904761,1.0,0.75,0.40476190476190466,Extremely high stress,Below Average
+96,Graduate student,Male,0.4047619047619047,0.6875,0.6875,0.5952380952380952,No stress,Poor
+97,Third year,Male,0.3333333333333333,0.6875,0.25,0.49999999999999994,High stress,Average
+98,Graduate student,Male,0.6666666666666666,1.0,0.3125,0.5952380952380952,High stress,Poor
+99,First year,Male,0.4047619047619047,0.6875,0.25,0.5,Extremely high stress,Below Average
+100,Third year,Female,0.5714285714285714,1.0,0.625,0.3095238095238095,High stress,Below Average
+101,Third year,Female,0.5714285714285714,0.6875,0.625,0.3095238095238095,High stress,Below Average
+102,Graduate student,Male,0.5952380952380952,0.6875,0.75,0.4761904761904761,Low stress,Poor
+103,Graduate student,Female,0.6785714285714285,0.6875,0.625,0.5952380952380952,High stress,Below Average
+104,Third year,Male,0.3095238095238095,1.0,0.75,0.3333333333333333,High stress,Poor
+105,Graduate student,Male,0.1428571428571428,0.6875,0.5,0.5952380952380952,Extremely high stress,Poor
+106,Third year,Male,0.5714285714285714,0.5625,0.375,0.5,Low stress,Below Average
+107,Third year,Male,0.5714285714285714,0.6875,0.5625,0.5,High stress,Below Average
+108,Graduate student,Female,0.25,1.0,0.5,0.3333333333333333,Extremely high stress,Poor
+109,Third year,Female,0.5,0.6875,0.6875,0.40476190476190466,High stress,Below Average
+110,Graduate student,Female,0.4880952380952381,0.6875,0.5625,0.5952380952380952,High stress,Poor
+111,Third year,Female,0.6666666666666666,1.0,0.75,0.40476190476190466,No stress,Below Average
+112,Graduate student,Female,0.4047619047619047,1.0,0.4375,0.5,High stress,Below Average
+113,Third year,Female,0.3095238095238095,1.0,0.625,0.3333333333333333,High stress,Poor
+114,Third year,Male,0.3333333333333333,1.0,0.6875,0.3333333333333333,High stress,Poor
+115,Third year,Female,0.4761904761904761,0.6875,0.9375,0.40476190476190466,Extremely high stress,Poor
+116,Graduate student,Male,0.3333333333333333,0.6875,0.9375,0.3333333333333333,Extremely high stress,Poor
+117,Graduate student,Female,0.16666666666666666,0.6875,0.8125,0.3333333333333333,High stress,Poor
+118,Third year,Male,0.23809523809523805,0.6875,0.6875,0.4761904761904761,Extremely high stress,Below Average
+119,Graduate student,Female,0.4047619047619047,1.0,0.8125,0.3333333333333333,Extremely high stress,Poor
+120,Third year,Female,0.25,1.0,0.75,0.3333333333333333,High stress,Below Average
+121,Graduate student,Male,0.25,1.0,0.6875,0.3333333333333333,High stress,Below Average
+122,Graduate student,Male,0.3928571428571428,0.6875,0.75,0.5,High stress,Below Average
+123,Third year,Male,0.4047619047619047,0.6875,0.8125,0.4761904761904761,Low stress,Poor
+124,Graduate student,Male,0.4047619047619047,0.6875,0.875,0.5952380952380952,No stress,Poor
+125,Third year,Female,0.3333333333333333,0.6875,0.6875,0.3333333333333333,High stress,Poor
+126,Graduate student,Female,0.3928571428571428,1.0,0.8125,0.5714285714285714,High stress,Below Average
+127,Second year,Female,0.25,1.0,0.75,0.23809523809523805,High stress,Poor
+128,Second year,Female,0.6547619047619048,0.6875,0.5625,0.23809523809523805,High stress,Poor
+129,Graduate student,Female,0.3214285714285714,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+130,Third year,Male,0.5,0.6875,0.6875,0.4761904761904761,High stress,Poor
+131,Third year,Male,0.3214285714285714,0.6875,0.875,0.16666666666666666,Extremely high stress,Below Average
+132,Graduate student,Female,0.3928571428571428,1.0,0.625,0.6666666666666666,Extremely high stress,Poor
+133,Graduate student,Male,0.3214285714285714,0.6875,0.6875,0.4047619047619047,Low stress,Below Average
+134,Third year,Female,0.4761904761904761,1.0,0.875,0.4761904761904761,Low stress,Poor
+135,Graduate student,Female,0.5,0.6875,0.75,0.4047619047619047,Extremely high stress,Poor
+136,Third year,Female,0.3214285714285714,0.6875,0.4375,0.3095238095238095,High stress,Poor
+137,Second year,Male,0.4047619047619047,0.6875,0.75,0.5714285714285714,High stress,Poor
+138,Graduate student,Female,0.25,1.0,0.5625,0.5952380952380952,High stress,Below Average
+139,Graduate student,Male,0.3214285714285714,0.6875,0.6875,0.3333333333333333,Low stress,Poor
+140,Third year,Female,0.3095238095238095,0.6875,0.625,0.6904761904761904,High stress,Below Average
+141,Graduate student,Female,0.4761904761904761,1.0,0.5625,0.6904761904761904,Low stress,Below Average
+142,Third year,Male,0.3928571428571428,1.0,0.75,0.3333333333333333,High stress,Below Average
+143,Third year,Male,0.25,0.6875,0.6875,0.4047619047619047,Low stress,Poor
+144,Third year,Female,0.4880952380952381,0.6875,0.75,0.40476190476190466,High stress,Below Average
+145,Graduate student,Male,0.4047619047619047,1.0,0.875,0.4761904761904761,High stress,Average
+146,Third year,Male,0.3095238095238095,1.0,0.5625,0.5,Low stress,Below Average
+147,Third year,Female,0.4880952380952381,0.6875,0.6875,0.3095238095238095,High stress,Poor
+148,Third year,Female,0.3214285714285714,1.0,0.625,0.5,High stress,Below Average
+149,Third year,Male,0.1428571428571428,0.6875,0.5,0.4047619047619047,High stress,Below Average
+150,Graduate student,Male,0.4880952380952381,0.6875,0.625,0.5952380952380952,Low stress,Below Average
+151,Third year,Male,0.5,0.6875,0.625,0.40476190476190466,High stress,Below Average
+152,Graduate student,Female,0.3333333333333333,1.0,0.75,0.5952380952380952,High stress,Below Average
+153,Graduate student,Female,0.5,0.6875,0.3125,0.4047619047619047,Extremely high stress,Below Average
+154,Graduate student,Male,0.3214285714285714,0.6875,0.5625,0.40476190476190466,High stress,Below Average
+155,Graduate student,Male,0.3214285714285714,0.6875,0.875,0.40476190476190466,High stress,Below Average
+156,Graduate student,Female,0.5,0.6875,0.8125,0.5952380952380952,Low stress,Average
+157,Third year,Male,0.3214285714285714,0.6875,0.6875,0.5952380952380952,Low stress,Poor
+158,Third year,Female,0.4047619047619047,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+159,Graduate student,Male,0.3333333333333333,1.0,0.625,0.5,High stress,Poor
+160,Third year,Female,0.4880952380952381,0.6875,0.8125,0.40476190476190466,Extremely high stress,Below Average
+161,Second year,Female,0.3214285714285714,1.0,0.625,0.3333333333333333,High stress,Poor
+162,Graduate student,Male,0.3928571428571428,0.6875,0.75,0.4047619047619047,High stress,Below Average
+163,Third year,Male,0.25,0.6875,0.4375,0.40476190476190466,High stress,Below Average
+164,Graduate student,Male,0.3928571428571428,1.0,0.6875,0.5,High stress,Poor
+165,Graduate student,Female,0.4761904761904761,1.0,0.6875,0.40476190476190466,High stress,Below Average
+166,Third year,Female,0.4761904761904761,1.0,0.625,0.3333333333333333,High stress,Below Average
+167,Graduate student,Female,0.3214285714285714,1.0,1.0,0.5714285714285714,Extremely high stress,Below Average
+168,Third year,Female,0.3928571428571428,0.6875,0.75,0.40476190476190466,Extremely high stress,Poor
+169,Third year,Male,0.3928571428571428,0.6875,0.8125,0.23809523809523805,High stress,Poor
+170,Third year,Female,0.3928571428571428,0.6875,0.8125,0.3095238095238095,High stress,Below Average
+171,Graduate student,Male,0.3928571428571428,0.6875,0.6875,0.3095238095238095,Low stress,Poor
+172,Graduate student,Male,0.25,1.0,0.6875,0.5952380952380952,Low stress,Poor
+173,Third year,Female,0.3333333333333333,1.0,0.875,0.4047619047619047,High stress,Poor
+174,Graduate student,Male,0.25,1.0,0.9375,0.40476190476190466,Extremely high stress,Poor
+175,Second year,Male,0.4047619047619047,1.0,0.9375,0.4047619047619047,High stress,Poor
+176,Third year,Female,0.3214285714285714,0.6875,1.0,0.4047619047619047,Extremely high stress,Poor
+177,Third year,Male,0.3928571428571428,1.0,0.875,0.3333333333333333,High stress,Poor
+178,Graduate student,Male,0.3214285714285714,1.0,0.875,0.40476190476190466,Extremely high stress,Below Average
+179,Graduate student,Male,0.3333333333333333,1.0,0.875,0.16666666666666666,Extremely high stress,Poor
+180,Graduate student,Female,0.4047619047619047,1.0,0.875,0.4047619047619047,Extremely high stress,Poor
+181,Graduate student,Male,0.3333333333333333,1.0,0.6875,0.2619047619047619,High stress,Poor
+182,Graduate student,Male,0.25,1.0,0.8125,0.40476190476190466,High stress,Poor
+183,Graduate student,Male,0.3333333333333333,1.0,0.9375,0.40476190476190466,Extremely high stress,Poor
+184,Third year,Male,0.25,1.0,0.9375,0.4047619047619047,Extremely high stress,Poor
+185,Graduate student,Female,0.3333333333333333,1.0,0.9375,0.42857142857142855,Extremely high stress,Poor
+186,Graduate student,Female,0.4761904761904761,1.0,0.9375,0.4047619047619047,Extremely high stress,Poor
+187,Graduate student,Female,0.3333333333333333,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+188,Graduate student,Male,0.3333333333333333,0.6875,0.875,0.4047619047619047,Extremely high stress,Poor
+189,Third year,Male,0.25,1.0,0.8125,0.40476190476190466,Low stress,Poor
+190,Third year,Male,0.4047619047619047,1.0,0.75,0.40476190476190466,High stress,Poor
+191,Graduate student,Male,0.25,1.0,0.75,0.2619047619047619,High stress,Poor
+192,Graduate student,Male,0.7380952380952381,1.0,0.8125,0.4047619047619047,Extremely high stress,Below Average
+193,Graduate student,Male,0.4047619047619047,1.0,1.0,0.4761904761904761,Extremely high stress,Poor
+194,Graduate student,Male,0.3214285714285714,0.6875,0.875,0.2619047619047619,Extremely high stress,Below Average
+195,Third year,Female,0.25,1.0,0.75,0.2619047619047619,High stress,Poor
+196,Graduate student,Female,0.25,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+197,Third year,Female,0.4047619047619047,0.6875,0.875,0.2619047619047619,Extremely high stress,Poor
+198,Graduate student,Female,0.25,0.6875,0.9375,0.3333333333333333,Extremely high stress,Below Average
+199,Graduate student,Male,0.4047619047619047,1.0,0.75,0.2619047619047619,Extremely high stress,Poor
+200,Graduate student,Male,0.3928571428571428,0.6875,1.0,0.3333333333333333,Extremely high stress,Poor
+201,Graduate student,Male,0.3333333333333333,0.6875,0.9375,0.3333333333333333,Extremely high stress,Poor
+202,Graduate student,Male,0.3333333333333333,1.0,0.9375,0.40476190476190466,Extremely high stress,Poor
+203,Graduate student,Male,0.3214285714285714,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+204,Graduate student,Male,0.4047619047619047,0.6875,0.875,0.3333333333333333,High stress,Poor
+205,Graduate student,Male,0.4047619047619047,0.6875,0.875,0.3333333333333333,Extremely high stress,Below Average
+206,Graduate student,Male,0.3333333333333333,1.0,0.875,0.2619047619047619,Extremely high stress,Poor
+207,Graduate student,Male,0.4047619047619047,0.6875,0.9375,0.40476190476190466,Extremely high stress,Poor
+208,Graduate student,Male,0.4047619047619047,0.6875,0.8125,0.40476190476190466,Extremely high stress,Poor
+209,Graduate student,Male,0.25,1.0,0.75,0.40476190476190466,High stress,Below Average
+210,Graduate student,Male,0.4761904761904761,0.6875,0.8125,0.4761904761904761,High stress,Poor
+211,Third year,Male,0.25,0.6875,0.75,0.40476190476190466,High stress,Below Average
+212,Third year,Male,0.4047619047619047,0.6875,0.75,0.2619047619047619,High stress,Below Average
+213,Graduate student,Male,0.3214285714285714,0.6875,0.75,0.40476190476190466,Extremely high stress,Poor
+214,Third year,Male,0.4047619047619047,0.6875,0.9375,0.3333333333333333,High stress,Poor
+215,Graduate student,Male,0.4047619047619047,1.0,0.9375,0.3333333333333333,High stress,Poor
+216,Graduate student,Male,0.3214285714285714,0.6875,0.8125,0.40476190476190466,Extremely high stress,Poor
+217,Graduate student,Male,0.4047619047619047,0.6875,1.0,0.40476190476190466,High stress,Poor
+218,Third year,Female,0.4047619047619047,0.6875,0.875,0.4761904761904761,High stress,Poor
+219,Graduate student,Female,0.4761904761904761,1.0,1.0,0.4047619047619047,Extremely high stress,Poor
+220,Graduate student,Male,0.4761904761904761,0.6875,1.0,0.3333333333333333,Extremely high stress,Poor
+221,Third year,Male,0.3214285714285714,1.0,0.8125,0.4761904761904761,Extremely high stress,Poor
+222,Third year,Male,0.4047619047619047,0.6875,0.9375,0.3333333333333333,Extremely high stress,Below Average
+223,Third year,Female,0.3928571428571428,0.6875,0.75,0.4047619047619047,Extremely high stress,Poor
+224,Third year,Male,0.3333333333333333,1.0,0.8125,0.4761904761904761,Extremely high stress,Below Average
+225,Third year,Female,0.3214285714285714,0.6875,0.75,0.3333333333333333,Extremely high stress,Poor
+226,Third year,Male,0.4761904761904761,0.6875,1.0,0.4047619047619047,High stress,Poor
+227,Graduate student,Male,0.4761904761904761,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+228,Graduate student,Male,0.4047619047619047,1.0,0.875,0.40476190476190466,Extremely high stress,Below Average
+229,Graduate student,Male,0.0714285714285714,1.0,0.6875,0.40476190476190466,High stress,Poor
+230,Graduate student,Male,0.3333333333333333,0.6875,0.75,0.2619047619047619,High stress,Poor
+231,Graduate student,Female,0.3333333333333333,1.0,0.875,0.4047619047619047,Extremely high stress,Poor
+232,Graduate student,Male,0.4047619047619047,1.0,0.875,0.5,High stress,Below Average
+233,Graduate student,Female,0.4047619047619047,0.6875,0.75,0.40476190476190466,High stress,Poor
+234,Graduate student,Male,0.4047619047619047,1.0,0.75,0.40476190476190466,Extremely high stress,Poor
+235,Graduate student,Female,0.3928571428571428,0.6875,1.0,0.3333333333333333,Extremely high stress,Poor
+236,Graduate student,Male,0.3333333333333333,1.0,1.0,0.2619047619047619,Extremely high stress,Poor
+237,Graduate student,Female,0.3333333333333333,0.6875,1.0,0.3333333333333333,Extremely high stress,Poor
+238,Graduate student,Male,0.3333333333333333,0.6875,1.0,0.2619047619047619,Extremely high stress,Poor
+239,Graduate student,Male,0.4047619047619047,1.0,0.75,0.4047619047619047,Extremely high stress,Poor
+240,Graduate student,Male,0.3214285714285714,1.0,1.0,0.40476190476190466,Extremely high stress,Poor
+241,Graduate student,Male,0.4047619047619047,0.6875,1.0,0.5,Extremely high stress,Below Average
+242,Graduate student,Male,0.1428571428571428,0.6875,1.0,0.4047619047619047,Extremely high stress,Poor
+243,Graduate student,Female,0.3333333333333333,1.0,0.75,0.2619047619047619,Extremely high stress,Poor
+244,Graduate student,Female,0.4047619047619047,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+245,Graduate student,Male,0.3214285714285714,0.6875,0.9375,0.4047619047619047,High stress,Poor
+246,Graduate student,Female,0.4047619047619047,1.0,0.8125,0.4761904761904761,Extremely high stress,Poor
+247,Graduate student,Male,0.3214285714285714,0.6875,0.8125,0.4047619047619047,Extremely high stress,Poor
+248,Graduate student,Male,0.3333333333333333,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+249,Graduate student,Male,0.3333333333333333,1.0,0.875,0.3333333333333333,Extremely high stress,Poor
+250,Graduate student,Female,0.3333333333333333,0.6875,0.9375,0.3333333333333333,Extremely high stress,Poor
+251,Graduate student,Female,0.3333333333333333,1.0,0.6875,0.40476190476190466,Extremely high stress,Poor
+252,Graduate student,Male,0.25,1.0,1.0,0.2619047619047619,Extremely high stress,Poor
+253,Graduate student,Female,0.3333333333333333,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+254,Graduate student,Male,0.3333333333333333,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+255,Graduate student,Female,0.3333333333333333,1.0,0.9375,0.4761904761904761,Extremely high stress,Below Average
+256,Graduate student,Female,0.25,1.0,0.75,0.4047619047619047,Extremely high stress,Below Average
+257,Graduate student,Female,0.4047619047619047,1.0,0.75,0.4047619047619047,High stress,Poor
+258,Graduate student,Female,0.4047619047619047,1.0,0.875,0.4047619047619047,Extremely high stress,Poor
+259,Third year,Female,0.3333333333333333,1.0,0.9375,0.4047619047619047,Extremely high stress,Below Average
+260,Graduate student,Male,0.4761904761904761,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+261,Graduate student,Female,0.3333333333333333,1.0,1.0,0.4047619047619047,Extremely high stress,Poor
+262,Third year,Female,0.3333333333333333,1.0,0.9375,0.4761904761904761,Extremely high stress,Poor
+263,Third year,Female,0.4761904761904761,0.6875,0.9375,0.3333333333333333,High stress,Poor
+264,Graduate student,Female,0.3214285714285714,1.0,0.875,0.2619047619047619,Extremely high stress,Below Average
+265,Graduate student,Female,0.3333333333333333,1.0,0.9375,0.2619047619047619,Extremely high stress,Poor
+266,Graduate student,Male,0.25,1.0,1.0,0.40476190476190466,Extremely high stress,Poor
+267,Graduate student,Male,0.4047619047619047,1.0,0.9375,0.4047619047619047,Extremely high stress,Below Average
+268,Graduate student,Male,0.3333333333333333,1.0,1.0,0.4047619047619047,Extremely high stress,Poor
+269,Graduate student,Male,0.4047619047619047,0.6875,0.875,0.40476190476190466,High stress,Below Average
+270,Graduate student,Male,0.4047619047619047,0.6875,0.875,0.42857142857142855,High stress,Below Average
+271,Graduate student,Male,0.4047619047619047,1.0,0.8125,0.3333333333333333,Extremely high stress,Below Average
+272,Third year,Male,0.3333333333333333,1.0,0.9375,0.3333333333333333,High stress,Poor
+273,Graduate student,Male,0.25,1.0,0.9375,0.3333333333333333,Extremely high stress,Below Average
+274,Graduate student,Male,0.3333333333333333,1.0,0.8125,0.4047619047619047,Extremely high stress,Poor
+275,Third year,Male,0.3333333333333333,0.6875,0.9375,0.3333333333333333,High stress,Below Average
+276,Graduate student,Male,0.3214285714285714,0.6875,0.8125,0.4047619047619047,Extremely high stress,Poor
+277,Graduate student,Male,0.3333333333333333,1.0,0.9375,0.3333333333333333,High stress,Poor
+278,Graduate student,Male,0.25,1.0,0.9375,0.4761904761904761,Extremely high stress,Poor
+279,Graduate student,Male,0.4047619047619047,1.0,0.9375,0.3333333333333333,High stress,Poor
+280,Third year,Male,0.3333333333333333,0.6875,0.8125,0.3333333333333333,Extremely high stress,Below Average
+281,Graduate student,Male,0.3333333333333333,1.0,0.6875,0.4761904761904761,Extremely high stress,Poor
+282,Graduate student,Male,0.3333333333333333,0.6875,0.9375,0.4047619047619047,Extremely high stress,Poor
+283,Graduate student,Male,0.25,1.0,0.875,0.3333333333333333,Extremely high stress,Poor
+284,Graduate student,Male,0.3214285714285714,1.0,1.0,0.2619047619047619,Extremely high stress,Poor
+285,Graduate student,Male,0.3333333333333333,0.6875,0.9375,0.3333333333333333,Extremely high stress,Average
+286,Graduate student,Male,0.3333333333333333,1.0,1.0,0.4047619047619047,Extremely high stress,Poor
+287,Graduate student,Male,0.25,1.0,0.8125,0.4047619047619047,Extremely high stress,Poor
+288,Graduate student,Male,0.3214285714285714,1.0,1.0,0.4761904761904761,Extremely high stress,Poor
+289,Third year,Male,0.3333333333333333,1.0,0.75,0.40476190476190466,High stress,Poor
+290,Graduate student,Male,0.3333333333333333,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+291,Graduate student,Male,0.3333333333333333,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+292,Graduate student,Male,0.4047619047619047,1.0,1.0,0.4047619047619047,Extremely high stress,Poor
+293,Graduate student,Male,0.4047619047619047,1.0,1.0,0.4047619047619047,Extremely high stress,Below Average
+294,Graduate student,Male,0.3333333333333333,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+295,Graduate student,Male,0.3333333333333333,1.0,1.0,0.4047619047619047,Extremely high stress,Poor
+296,Graduate student,Male,0.3214285714285714,0.6875,1.0,0.40476190476190466,Extremely high stress,Below Average
+297,Graduate student,Male,0.3333333333333333,1.0,0.9375,0.4047619047619047,Extremely high stress,Poor
+298,Graduate student,Female,0.4047619047619047,0.6875,0.9375,0.4047619047619047,High stress,Poor
+299,Graduate student,Male,0.4047619047619047,1.0,0.75,0.40476190476190466,High stress,Below Average
+300,Graduate student,Male,0.3333333333333333,1.0,0.875,0.4761904761904761,Extremely high stress,Poor
+301,Graduate student,Male,0.3333333333333333,1.0,0.9375,0.4047619047619047,Extremely high stress,Poor
+302,Graduate student,Male,0.4761904761904761,1.0,0.875,0.3333333333333333,Extremely high stress,Below Average
+303,Graduate student,Male,0.4047619047619047,1.0,0.9375,0.4047619047619047,Extremely high stress,Poor
+304,Graduate student,Male,0.3333333333333333,1.0,0.8125,0.3333333333333333,Extremely high stress,Below Average
+305,Graduate student,Male,0.3333333333333333,1.0,0.9375,0.40476190476190466,Extremely high stress,Poor
+306,Graduate student,Male,0.3928571428571428,1.0,1.0,0.3333333333333333,Extremely high stress,Below Average
+307,Graduate student,Male,0.3333333333333333,1.0,0.875,0.4047619047619047,Extremely high stress,Poor
+308,Graduate student,Male,0.3333333333333333,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+309,Graduate student,Male,0.4047619047619047,0.6875,1.0,0.5714285714285714,Extremely high stress,Below Average
+310,Graduate student,Male,0.3214285714285714,0.6875,0.875,0.4761904761904761,Extremely high stress,Poor
+311,Graduate student,Female,0.3333333333333333,1.0,0.9375,0.40476190476190466,Extremely high stress,Poor
+312,Graduate student,Male,0.3333333333333333,1.0,1.0,0.3333333333333333,High stress,Poor
+313,Graduate student,Male,0.3333333333333333,0.6875,0.9375,0.4047619047619047,Extremely high stress,Average
+314,Graduate student,Male,0.3333333333333333,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+315,Third year,Male,0.4047619047619047,1.0,0.9375,0.3333333333333333,Extremely high stress,Below Average
+316,Graduate student,Male,0.3333333333333333,0.6875,0.9375,0.3333333333333333,Extremely high stress,Poor
+317,Graduate student,Female,0.23809523809523805,1.0,0.9375,0.4047619047619047,Extremely high stress,Poor
+318,Third year,Female,0.3333333333333333,1.0,0.9375,0.4047619047619047,Extremely high stress,Below Average
+319,Third year,Female,0.4047619047619047,0.6875,0.8125,0.4761904761904761,Extremely high stress,Poor
+320,Graduate student,Female,0.25,1.0,0.875,0.3333333333333333,Extremely high stress,Below Average
+321,Graduate student,Male,0.3214285714285714,1.0,0.9375,0.3333333333333333,Extremely high stress,Below Average
+322,Third year,Female,0.4761904761904761,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+323,Graduate student,Male,0.3333333333333333,0.6875,1.0,0.3333333333333333,High stress,Poor
+324,Graduate student,Male,0.4761904761904761,1.0,0.9375,0.3333333333333333,High stress,Poor
+325,Graduate student,Male,0.3333333333333333,1.0,1.0,0.3333333333333333,Extremely high stress,Below Average
+326,Graduate student,Male,0.3333333333333333,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+327,Graduate student,Male,0.3333333333333333,0.6875,0.8125,0.3333333333333333,Extremely high stress,Poor
+328,Graduate student,Female,0.4047619047619047,1.0,1.0,0.4047619047619047,Extremely high stress,Poor
+329,Graduate student,Male,0.4047619047619047,0.6875,1.0,0.4761904761904761,Extremely high stress,Poor
+330,Graduate student,Male,0.3214285714285714,0.6875,0.9375,0.3333333333333333,High stress,Poor
+331,Graduate student,Male,0.3214285714285714,1.0,0.8125,0.4047619047619047,High stress,Poor
+332,Graduate student,Male,0.3214285714285714,1.0,0.8125,0.3333333333333333,Extremely high stress,Below Average
+333,Graduate student,Male,0.3333333333333333,0.6875,0.9375,0.4761904761904761,Extremely high stress,Poor
+334,Graduate student,Male,0.3928571428571428,0.5625,0.8125,0.3333333333333333,Extremely high stress,Below Average
+335,Graduate student,Male,0.3333333333333333,1.0,0.9375,0.2619047619047619,Extremely high stress,Poor
+336,Graduate student,Male,0.3214285714285714,0.5625,0.9375,0.3333333333333333,Extremely high stress,Poor
+337,First year,Male,0.3333333333333333,0.6875,0.875,0.3333333333333333,Extremely high stress,Below Average
+338,Third year,Male,0.3333333333333333,1.0,0.9375,0.4761904761904761,Extremely high stress,Poor
+339,Graduate student,Female,0.4047619047619047,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+340,Graduate student,Female,0.4761904761904761,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+341,Graduate student,Male,0.4047619047619047,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+342,Graduate student,Male,0.25,1.0,0.9375,0.4047619047619047,Extremely high stress,Poor
+343,Graduate student,Female,0.3333333333333333,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+344,Third year,Male,0.25,1.0,0.8125,0.2619047619047619,Extremely high stress,Poor
+345,Graduate student,Male,0.3333333333333333,1.0,1.0,0.4761904761904761,Extremely high stress,Below Average
+346,Third year,Male,0.4047619047619047,0.6875,0.9375,0.2619047619047619,High stress,Poor
+347,Graduate student,Male,0.25,1.0,0.9375,0.3333333333333333,Extremely high stress,Below Average
+348,Graduate student,Female,0.3333333333333333,1.0,0.625,0.3333333333333333,Extremely high stress,Poor
+349,Graduate student,Male,0.4047619047619047,1.0,0.75,0.4047619047619047,Extremely high stress,Good
+350,Graduate student,Male,0.23809523809523805,0.6875,0.875,0.4761904761904761,Extremely high stress,Below Average
+351,Graduate student,Male,0.4761904761904761,1.0,0.75,0.2619047619047619,High stress,Below Average
+352,Graduate student,Male,0.25,1.0,0.875,0.40476190476190466,Extremely high stress,Below Average
+353,Third year,Male,0.4761904761904761,1.0,0.9375,0.3333333333333333,High stress,Poor
+354,Third year,Male,0.3333333333333333,0.5625,0.875,0.4761904761904761,Extremely high stress,Below Average
+355,Graduate student,Male,0.4047619047619047,0.6875,0.875,0.4047619047619047,High stress,Poor
+356,Third year,Female,0.3333333333333333,0.6875,0.75,0.4047619047619047,Extremely high stress,Poor
+357,Second year,Male,0.4761904761904761,1.0,0.75,0.40476190476190466,Extremely high stress,Below Average
+358,Third year,Female,0.4761904761904761,1.0,0.8125,0.3333333333333333,Extremely high stress,Poor
+359,Second year,Female,0.4880952380952381,0.6875,0.75,0.4047619047619047,Extremely high stress,Below Average
+360,Graduate student,Male,0.3333333333333333,1.0,1.0,0.4761904761904761,Extremely high stress,Poor
+361,Graduate student,Male,0.3928571428571428,1.0,0.75,0.4761904761904761,Extremely high stress,Below Average
+362,Graduate student,Male,0.4761904761904761,0.6875,0.8125,0.40476190476190466,High stress,Below Average
+363,Second year,Male,0.4880952380952381,0.6875,0.8125,0.40476190476190466,High stress,Below Average
+364,Graduate student,Male,0.3214285714285714,1.0,0.75,0.3095238095238095,High stress,Below Average
+365,Graduate student,Male,0.25,0.6875,0.75,0.3333333333333333,Extremely high stress,Poor
+366,Graduate student,Male,0.3214285714285714,0.6875,0.875,0.4761904761904761,High stress,Poor
+367,Third year,Male,0.0714285714285714,0.6875,0.9375,0.3333333333333333,Extremely high stress,Below Average
+368,Graduate student,Male,0.25,0.6875,1.0,0.4047619047619047,Extremely high stress,Poor
+369,Third year,Female,0.3333333333333333,0.6875,0.75,0.2619047619047619,High stress,Average
+370,Graduate student,Male,0.3928571428571428,0.6875,0.5625,0.3095238095238095,High stress,Below Average
+371,Second year,Female,0.3928571428571428,0.6875,0.6875,0.4761904761904761,Extremely high stress,Below Average
+372,Third year,Male,0.4047619047619047,0.6875,0.8125,0.4047619047619047,Extremely high stress,Below Average
+373,Third year,Male,0.3333333333333333,1.0,0.8125,0.4047619047619047,High stress,Poor
+374,Third year,Male,0.4047619047619047,0.6875,1.0,0.3333333333333333,Extremely high stress,Poor
+375,Third year,Male,0.3928571428571428,0.6875,0.875,0.4047619047619047,Extremely high stress,Average
+376,Graduate student,Male,0.4047619047619047,1.0,0.9375,0.3333333333333333,High stress,Average
+377,Graduate student,Male,0.4047619047619047,1.0,0.875,0.4047619047619047,Extremely high stress,Poor
+378,Third year,Female,0.3214285714285714,0.6875,0.875,0.3333333333333333,High stress,Below Average
+379,Graduate student,Male,0.3928571428571428,0.6875,0.9375,0.4761904761904761,Extremely high stress,Below Average
+380,Third year,Male,0.4047619047619047,1.0,0.9375,0.3095238095238095,High stress,Below Average
+381,Third year,Female,0.3214285714285714,1.0,0.9375,0.40476190476190466,High stress,Below Average
+382,Third year,Male,0.3928571428571428,0.6875,0.8125,0.40476190476190466,High stress,Below Average
+383,Graduate student,Male,0.3333333333333333,1.0,0.8125,0.3333333333333333,High stress,Below Average
+384,Graduate student,Female,0.4047619047619047,1.0,0.8125,0.40476190476190466,Extremely high stress,Below Average
+385,Graduate student,Female,0.4761904761904761,0.6875,0.9375,0.4047619047619047,Extremely high stress,Poor
+386,Third year,Male,0.3928571428571428,0.6875,0.75,0.4761904761904761,Extremely high stress,Poor
+387,Graduate student,Male,0.3214285714285714,1.0,0.9375,0.2619047619047619,Extremely high stress,Below Average
+388,Third year,Female,0.3214285714285714,0.6875,0.75,0.5,High stress,Below Average
+389,Graduate student,Male,0.3214285714285714,0.6875,0.8125,0.4047619047619047,Extremely high stress,Below Average
+390,Third year,Female,0.1428571428571428,0.6875,0.875,0.3333333333333333,Extremely high stress,Below Average
+391,Third year,Male,0.4047619047619047,1.0,0.875,0.40476190476190466,High stress,Poor
+392,Third year,Male,0.3928571428571428,0.6875,0.75,0.4761904761904761,High stress,Poor
+393,Third year,Male,0.4761904761904761,1.0,0.8125,0.3333333333333333,High stress,Below Average
+394,Third year,Female,0.3214285714285714,0.6875,0.75,0.4761904761904761,Extremely high stress,Below Average
+395,Graduate student,Male,0.3333333333333333,0.6875,0.75,0.3333333333333333,High stress,Poor
+396,Graduate student,Male,0.3928571428571428,0.6875,0.75,0.4761904761904761,Extremely high stress,Below Average
+397,Graduate student,Male,0.25,1.0,0.75,0.4761904761904761,Extremely high stress,Below Average
+398,Third year,Male,0.3214285714285714,1.0,0.875,0.3333333333333333,Extremely high stress,Below Average
+399,Graduate student,Male,0.3214285714285714,1.0,0.875,0.40476190476190466,Extremely high stress,Poor
+400,Graduate student,Male,0.3333333333333333,0.6875,0.75,0.3333333333333333,High stress,Poor
+401,Graduate student,Male,0.3333333333333333,1.0,0.875,0.3333333333333333,Extremely high stress,Poor
+402,Graduate student,Male,0.3333333333333333,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+403,Graduate student,Female,0.3333333333333333,0.6875,0.875,0.4761904761904761,Extremely high stress,Poor
+404,Graduate student,Female,0.3333333333333333,1.0,0.875,0.40476190476190466,Extremely high stress,Poor
+405,Graduate student,Male,0.4047619047619047,1.0,0.8125,0.40476190476190466,High stress,Below Average
+406,Graduate student,Male,0.4047619047619047,1.0,0.75,0.4047619047619047,Extremely high stress,Below Average
+407,Graduate student,Male,0.3214285714285714,1.0,0.75,0.4047619047619047,High stress,Below Average
+408,Second year,Female,0.4047619047619047,1.0,0.875,0.3333333333333333,Extremely high stress,Poor
+409,Graduate student,Female,0.3333333333333333,1.0,0.9375,0.4047619047619047,Extremely high stress,Below Average
+410,Graduate student,Male,0.4761904761904761,0.6875,0.6875,0.40476190476190466,High stress,Below Average
+411,Third year,Female,0.4761904761904761,1.0,0.875,0.3333333333333333,Extremely high stress,Below Average
+412,Graduate student,Female,0.1428571428571428,0.6875,0.625,0.40476190476190466,Extremely high stress,Below Average
+413,Graduate student,Male,0.1428571428571428,0.6875,0.8125,0.4761904761904761,High stress,Below Average
+414,Graduate student,Female,0.23809523809523805,0.6875,0.75,0.40476190476190466,High stress,Below Average
+415,Graduate student,Male,0.22619047619047614,0.6875,0.75,0.40476190476190466,High stress,Below Average
+416,Graduate student,Male,0.1428571428571428,0.6875,0.8125,0.40476190476190466,High stress,Poor
+417,Graduate student,Female,0.1428571428571428,0.6875,0.75,0.40476190476190466,High stress,Below Average
+418,Graduate student,Male,0.16666666666666666,0.6875,0.75,0.4761904761904761,Extremely high stress,Below Average
+419,Graduate student,Male,0.23809523809523805,1.0,0.8125,0.40476190476190466,High stress,Below Average
+420,Third year,Male,0.1428571428571428,0.6875,0.875,0.4047619047619047,Extremely high stress,Poor
+421,First year,Male,0.0714285714285714,1.0,0.9375,0.4047619047619047,Extremely high stress,Poor
+422,Third year,Male,0.0714285714285714,1.0,0.8125,0.3333333333333333,High stress,Poor
+423,Graduate student,Male,0.0,1.0,1.0,0.3333333333333333,High stress,Poor
+424,Graduate student,Male,0.1428571428571428,1.0,0.9375,0.4047619047619047,Extremely high stress,Poor
+425,Graduate student,Male,0.1428571428571428,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+426,Graduate student,Female,0.0,1.0,0.8125,0.2619047619047619,Extremely high stress,Poor
+427,Graduate student,Male,0.0,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+428,Graduate student,Male,0.0,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+429,Graduate student,Female,0.0714285714285714,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+430,Graduate student,Male,0.0,0.6875,0.75,0.3333333333333333,Extremely high stress,Poor
+431,Graduate student,Female,0.1428571428571428,0.6875,0.9375,0.3333333333333333,Extremely high stress,Poor
+432,Graduate student,Female,0.0,1.0,1.0,0.2619047619047619,Extremely high stress,Poor
+433,Graduate student,Male,0.0,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+434,Graduate student,Female,0.0,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+435,Graduate student,Female,0.0714285714285714,1.0,0.8125,0.3333333333333333,Extremely high stress,Poor
+436,Graduate student,Male,0.0714285714285714,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+437,Graduate student,Male,0.0714285714285714,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+438,Third year,Female,0.0,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+439,Third year,Male,0.0,0.6875,1.0,0.3333333333333333,Extremely high stress,Poor
+440,Third year,Male,0.0,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+441,Graduate student,Male,0.0,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+442,Graduate student,Male,0.0,1.0,1.0,0.4047619047619047,Extremely high stress,Poor
+443,Graduate student,Male,0.0,1.0,0.875,0.3333333333333333,Extremely high stress,Poor
+444,Graduate student,Male,0.0,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+445,Graduate student,Male,0.0,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+446,Graduate student,Male,0.0,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+447,Third year,Female,0.0,1.0,1.0,0.4047619047619047,Extremely high stress,Poor
+448,Graduate student,Female,0.0,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+449,Third year,Male,0.0714285714285714,1.0,0.8125,0.16666666666666666,Extremely high stress,Below Average
+450,First year,Male,0.0,1.0,0.875,0.40476190476190466,High stress,Poor
+451,Third year,Male,0.1428571428571428,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+452,Graduate student,Male,0.0714285714285714,0.6875,0.5625,0.4047619047619047,Extremely high stress,Poor
+453,Third year,Female,0.1428571428571428,0.6875,0.75,0.3333333333333333,High stress,Below Average
+454,Third year,Male,0.1428571428571428,0.6875,0.75,0.40476190476190466,Extremely high stress,Poor
+455,Graduate student,Male,0.0714285714285714,0.6875,0.75,0.40476190476190466,High stress,Poor
+456,Graduate student,Male,0.0,1.0,0.9375,0.16666666666666666,Extremely high stress,Poor
+457,Graduate student,Female,0.1428571428571428,0.6875,0.875,0.40476190476190466,High stress,Below Average
+458,Third year,Male,0.1428571428571428,0.6875,0.75,0.0714285714285714,Extremely high stress,Poor
+459,Third year,Male,0.0714285714285714,1.0,0.6875,0.1428571428571428,High stress,Poor
+460,Second year,Male,0.1428571428571428,0.6875,0.75,0.2142857142857142,High stress,Below Average
+461,Graduate student,Male,0.0714285714285714,0.6875,0.75,0.40476190476190466,Extremely high stress,Poor
+462,Third year,Male,0.0714285714285714,1.0,0.75,0.2142857142857142,Extremely high stress,Poor
+463,Graduate student,Male,0.0,0.6875,0.8125,0.3333333333333333,High stress,Below Average
+464,Graduate student,Male,0.1428571428571428,0.6875,0.875,0.3333333333333333,High stress,Poor
+465,Graduate student,Female,0.1428571428571428,0.6875,0.75,0.3333333333333333,High stress,Poor
+466,Third year,Female,0.1428571428571428,1.0,0.875,0.4047619047619047,Extremely high stress,Below Average
+467,Third year,Male,0.1428571428571428,1.0,0.75,0.40476190476190466,High stress,Excellent
+468,Third year,Male,0.1428571428571428,0.6875,0.75,0.40476190476190466,High stress,Poor
+469,Third year,Male,0.1428571428571428,0.6875,0.75,0.2142857142857142,High stress,Below Average
+470,Third year,Male,0.1428571428571428,0.6875,0.8125,0.40476190476190466,High stress,Poor
+471,Graduate student,Male,0.0,0.6875,0.8125,0.40476190476190466,High stress,Poor
+472,Graduate student,Male,0.0714285714285714,0.6875,0.75,0.40476190476190466,Extremely high stress,Poor
+473,Third year,Male,0.0,0.6875,0.9375,0.4761904761904761,Extremely high stress,Poor
+474,Graduate student,Female,0.0714285714285714,1.0,0.75,0.5,High stress,Below Average
+475,Third year,Male,0.1428571428571428,1.0,0.75,0.6666666666666666,High stress,Poor
+476,Third year,Male,0.0714285714285714,0.6875,0.6875,0.40476190476190466,High stress,Average
+477,Graduate student,Male,0.1428571428571428,0.6875,0.75,0.3095238095238095,High stress,Below Average
+478,Third year,Female,0.0714285714285714,0.6875,0.8125,0.3333333333333333,Extremely high stress,Below Average
+479,Third year,Male,0.1428571428571428,0.5625,0.75,0.40476190476190466,High stress,Below Average
+480,Graduate student,Male,0.1428571428571428,0.6875,0.875,0.40476190476190466,High stress,Below Average
+481,Graduate student,Male,0.23809523809523805,0.6875,0.8125,0.3095238095238095,High stress,Poor
+482,Third year,Male,0.1428571428571428,0.6875,0.75,0.40476190476190466,High stress,Below Average
+483,Third year,Male,0.0714285714285714,0.6875,0.75,0.3095238095238095,Extremely high stress,Poor
+484,Third year,Male,0.1428571428571428,0.6875,0.75,0.40476190476190466,High stress,Poor
+485,Graduate student,Male,0.1428571428571428,0.6875,0.6875,0.3333333333333333,High stress,Poor
+486,Graduate student,Male,0.1428571428571428,0.6875,0.8125,0.40476190476190466,High stress,Below Average
+487,Graduate student,Male,0.0714285714285714,1.0,0.875,0.3333333333333333,High stress,Poor
+488,Third year,Female,0.1428571428571428,1.0,0.8125,0.3333333333333333,Extremely high stress,Poor
+489,Graduate student,Male,0.1428571428571428,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+490,Third year,Male,0.1428571428571428,0.6875,0.8125,0.3333333333333333,High stress,Below Average
+491,Graduate student,Male,0.23809523809523805,0.6875,0.75,0.40476190476190466,High stress,Below Average
+492,Graduate student,Male,0.1428571428571428,0.6875,0.75,0.4047619047619047,High stress,Below Average
+493,Third year,Male,0.1428571428571428,0.6875,0.6875,0.40476190476190466,High stress,Below Average
+494,Third year,Male,0.1428571428571428,0.6875,0.6875,0.40476190476190466,High stress,Below Average
+495,First year,Male,0.1428571428571428,0.6875,0.75,0.40476190476190466,High stress,Below Average
+496,Graduate student,Male,0.1428571428571428,0.6875,0.75,0.40476190476190466,High stress,Below Average
+497,Third year,Female,0.1428571428571428,0.6875,0.6875,0.40476190476190466,High stress,Below Average
+498,Third year,Male,0.1428571428571428,0.6875,0.75,0.40476190476190466,High stress,Poor
+499,Third year,Male,0.1428571428571428,0.6875,0.75,0.3333333333333333,Extremely high stress,Below Average
+500,Third year,Male,0.0714285714285714,0.6875,0.8125,0.40476190476190466,Extremely high stress,Poor
+501,Graduate student,Male,0.4880952380952381,0.6875,0.75,0.3333333333333333,High stress,Below Average
+502,Third year,Male,0.0714285714285714,0.6875,0.6875,0.23809523809523805,High stress,Poor
+503,Third year,Male,0.0714285714285714,0.6875,0.8125,0.3333333333333333,Extremely high stress,Poor
+504,Graduate student,Female,0.1428571428571428,0.6875,0.5625,0.40476190476190466,High stress,Poor
+505,Graduate student,Female,0.1428571428571428,0.6875,0.75,0.4047619047619047,High stress,Poor
+506,Graduate student,Male,0.3333333333333333,1.0,0.875,0.3333333333333333,Extremely high stress,Poor
+507,Third year,Male,0.0,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+508,Third year,Male,0.0714285714285714,1.0,0.75,0.40476190476190466,High stress,Poor
+509,Graduate student,Male,0.0714285714285714,0.6875,0.8125,0.2619047619047619,Extremely high stress,Poor
+510,Third year,Male,0.0714285714285714,0.6875,0.8125,0.2619047619047619,Extremely high stress,Poor
+511,Third year,Male,0.0714285714285714,0.6875,0.8125,0.40476190476190466,High stress,Below Average
+512,Third year,Male,0.0714285714285714,0.6875,0.875,0.40476190476190466,High stress,Poor
+513,Third year,Male,0.1428571428571428,0.6875,0.8125,0.3333333333333333,Extremely high stress,Poor
+514,Graduate student,Male,0.0,1.0,0.875,0.4761904761904761,Extremely high stress,Poor
+515,Third year,Male,0.1428571428571428,1.0,0.875,0.4761904761904761,High stress,Below Average
+516,Graduate student,Male,0.1428571428571428,1.0,0.9375,0.40476190476190466,Extremely high stress,Poor
+517,Graduate student,Female,0.0,1.0,0.9375,0.2619047619047619,High stress,Poor
+518,Third year,Male,0.1428571428571428,0.6875,0.9375,0.5714285714285714,Extremely high stress,Poor
+519,Third year,Female,0.1428571428571428,1.0,0.6875,0.3095238095238095,High stress,Poor
+520,Graduate student,Male,0.0714285714285714,1.0,0.75,0.6666666666666666,Extremely high stress,Poor
+521,Third year,Male,0.0714285714285714,0.6875,0.75,0.4761904761904761,Extremely high stress,Poor
+522,Graduate student,Male,0.4166666666666667,0.6875,0.9375,0.4761904761904761,High stress,Poor
+523,Third year,Male,0.4047619047619047,0.6875,0.875,0.3333333333333333,High stress,Poor
+524,Third year,Male,0.3333333333333333,1.0,0.8125,0.3333333333333333,Extremely high stress,Below Average
+525,Graduate student,Female,0.0,0.6875,0.8125,0.4761904761904761,Extremely high stress,Poor
+526,Graduate student,Male,0.0,0.6875,0.75,0.3333333333333333,High stress,Below Average
+527,Graduate student,Male,0.1428571428571428,1.0,0.75,0.4761904761904761,Extremely high stress,Poor
+528,Third year,Female,0.1428571428571428,1.0,0.75,0.3333333333333333,Extremely high stress,Below Average
+529,Third year,Male,0.0,1.0,0.75,0.40476190476190466,High stress,Below Average
+530,Graduate student,Male,0.1428571428571428,0.6875,0.625,0.16666666666666666,Extremely high stress,Below Average
+531,Graduate student,Male,0.0714285714285714,0.6875,0.8125,0.4761904761904761,High stress,Poor
+532,Third year,Male,0.0714285714285714,0.6875,0.9375,0.40476190476190466,Extremely high stress,Below Average
+533,Third year,Female,0.1428571428571428,1.0,0.8125,0.4047619047619047,High stress,Below Average
+534,Third year,Male,0.1428571428571428,0.6875,0.8125,0.3333333333333333,Extremely high stress,Poor
+535,Graduate student,Male,0.0,1.0,0.8125,0.4047619047619047,Extremely high stress,Poor
+536,Graduate student,Male,0.1428571428571428,0.6875,0.8125,0.2619047619047619,High stress,Below Average
+537,Third year,Male,0.1428571428571428,0.6875,0.8125,0.3333333333333333,High stress,Poor
+538,Graduate student,Male,0.1428571428571428,1.0,0.75,0.3333333333333333,High stress,Below Average
+539,Third year,Male,0.0,1.0,0.8125,0.4047619047619047,Extremely high stress,Below Average
+540,Graduate student,Male,0.1428571428571428,1.0,0.875,0.40476190476190466,High stress,Below Average
+541,Third year,Male,0.23809523809523805,1.0,0.875,0.4761904761904761,Extremely high stress,Below Average
+542,Third year,Male,0.1428571428571428,0.6875,0.75,0.4761904761904761,High stress,Below Average
+543,Third year,Male,0.0714285714285714,0.6875,0.75,0.40476190476190466,High stress,Poor
+544,Third year,Male,0.22619047619047614,0.6875,0.75,0.40476190476190466,High stress,Below Average
+545,Third year,Female,0.1428571428571428,0.6875,0.75,0.3095238095238095,High stress,Below Average
+546,Third year,Male,0.4166666666666667,0.6875,0.8125,0.40476190476190466,High stress,Below Average
+547,Third year,Male,0.1428571428571428,0.6875,0.875,0.3333333333333333,High stress,Below Average
+548,Third year,Female,0.15476190476190474,0.6875,0.8125,0.3333333333333333,Extremely high stress,Poor
+549,Third year,Male,0.4166666666666667,0.6875,0.75,0.40476190476190466,High stress,Below Average
+550,Graduate student,Male,0.1428571428571428,0.6875,0.75,0.4761904761904761,High stress,Below Average
+551,Third year,Female,0.1428571428571428,0.6875,0.6875,0.40476190476190466,High stress,Below Average
+552,Third year,Male,0.22619047619047614,0.6875,0.75,0.40476190476190466,Extremely high stress,Below Average
+553,Third year,Male,0.0714285714285714,0.6875,0.75,0.40476190476190466,High stress,Below Average
+554,Graduate student,Female,0.0714285714285714,1.0,0.875,0.40476190476190466,Extremely high stress,Below Average
+555,Third year,Male,0.22619047619047614,0.6875,0.6875,0.40476190476190466,High stress,Average
+556,Third year,Male,0.0,1.0,0.6875,0.4761904761904761,High stress,Below Average
+557,Third year,Male,0.1428571428571428,1.0,0.75,0.3333333333333333,Extremely high stress,Below Average
+558,Third year,Male,0.15476190476190474,1.0,0.8125,0.3333333333333333,Extremely high stress,Poor
+559,Second year,Male,0.22619047619047614,0.6875,0.75,0.40476190476190466,High stress,Below Average
+560,Third year,Male,0.0714285714285714,0.6875,0.75,0.3333333333333333,Extremely high stress,Poor
+561,Second year,Male,0.23809523809523805,0.5625,0.8125,0.4047619047619047,High stress,Poor
+562,Third year,Female,0.1428571428571428,1.0,0.8125,0.42857142857142855,Extremely high stress,Below Average
+563,Graduate student,Female,0.1428571428571428,0.6875,0.8125,0.40476190476190466,Extremely high stress,Poor
+564,Third year,Male,0.22619047619047614,0.6875,0.875,0.40476190476190466,Extremely high stress,Poor
+565,Third year,Male,0.0714285714285714,1.0,0.6875,0.40476190476190466,Extremely high stress,Below Average
+566,Graduate student,Male,0.0714285714285714,1.0,0.6875,0.3333333333333333,Extremely high stress,Below Average
+567,Graduate student,Male,0.15476190476190474,1.0,0.8125,0.40476190476190466,High stress,Below Average
+568,Third year,Female,0.15476190476190474,0.6875,0.875,0.40476190476190466,High stress,Average
+569,Graduate student,Female,0.0714285714285714,0.6875,0.875,0.40476190476190466,High stress,Below Average
+570,Graduate student,Male,0.1428571428571428,0.6875,0.8125,0.4761904761904761,Extremely high stress,Poor
+571,Third year,Female,0.08333333333333333,0.6875,0.75,0.40476190476190466,High stress,Poor
+572,Third year,Female,0.1428571428571428,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+573,Graduate student,Male,0.1428571428571428,0.6875,0.75,0.5,High stress,Below Average
+574,Graduate student,Female,0.0714285714285714,0.6875,0.875,0.40476190476190466,High stress,Poor
+575,Third year,Male,0.0714285714285714,0.6875,0.75,0.40476190476190466,High stress,Poor
+576,Third year,Female,0.15476190476190474,0.6875,0.8125,0.4761904761904761,High stress,Below Average
+577,Graduate student,Male,0.1428571428571428,1.0,0.8125,0.40476190476190466,High stress,Below Average
+578,Third year,Male,0.3333333333333333,0.5625,0.625,0.40476190476190466,High stress,Below Average
+579,Third year,Female,0.4880952380952381,0.6875,0.6875,0.3333333333333333,High stress,Below Average
+580,Third year,Female,0.1428571428571428,0.6875,0.6875,0.2619047619047619,High stress,Poor
+581,Third year,Female,0.22619047619047614,0.6875,0.75,0.40476190476190466,High stress,Excellent
+582,Graduate student,Male,0.3333333333333333,1.0,0.9375,0.4047619047619047,High stress,Below Average
+583,Graduate student,Male,0.15476190476190474,1.0,0.8125,0.40476190476190466,Extremely high stress,Below Average
+584,Third year,Male,0.0714285714285714,1.0,0.875,0.3333333333333333,Extremely high stress,Below Average
+585,Graduate student,Male,0.1428571428571428,0.6875,0.8125,0.40476190476190466,Extremely high stress,Below Average
+586,Graduate student,Male,0.15476190476190474,0.6875,0.75,0.40476190476190466,High stress,Below Average
+587,Graduate student,Female,0.23809523809523805,0.6875,0.8125,0.3333333333333333,Extremely high stress,Below Average
+588,Graduate student,Male,0.4761904761904761,1.0,0.75,0.40476190476190466,High stress,Below Average
+589,Graduate student,Male,0.1428571428571428,0.6875,0.625,0.23809523809523805,Extremely high stress,Poor
+590,Graduate student,Male,0.0,0.6875,0.875,0.4047619047619047,Extremely high stress,Poor
+591,Graduate student,Male,0.1428571428571428,0.6875,0.75,0.3333333333333333,Extremely high stress,Poor
+592,Third year,Female,0.0,0.6875,0.75,0.40476190476190466,High stress,Poor
+593,Third year,Male,0.0,0.6875,0.75,0.4047619047619047,High stress,Poor
+594,Third year,Female,0.0714285714285714,0.5625,0.8125,0.5,High stress,Below Average
+595,Third year,Male,0.1428571428571428,0.6875,0.6875,0.3095238095238095,High stress,Poor
+596,Graduate student,Male,0.1428571428571428,0.6875,0.9375,0.4047619047619047,Extremely high stress,Below Average
+597,Graduate student,Female,0.3333333333333333,1.0,0.9375,0.40476190476190466,Extremely high stress,Poor
+598,Graduate student,Male,0.3333333333333333,1.0,0.75,0.4761904761904761,Extremely high stress,Poor
+599,Graduate student,Male,0.0,1.0,0.8125,0.3333333333333333,Extremely high stress,Poor
+600,Second year,Male,0.0714285714285714,1.0,0.8125,0.40476190476190466,Extremely high stress,Below Average
+601,First year,Female,0.0714285714285714,1.0,0.6875,0.5,High stress,Poor
+602,Second year,Female,0.0714285714285714,0.6875,1.0,0.40476190476190466,High stress,Poor
+603,Third year,Male,0.4047619047619047,1.0,0.8125,0.40476190476190466,High stress,Below Average
+604,Third year,Female,0.23809523809523805,0.6875,0.6875,0.40476190476190466,Extremely high stress,Poor
+605,Graduate student,Male,0.0714285714285714,0.6875,0.8125,0.4047619047619047,Extremely high stress,Poor
+606,Third year,Female,0.23809523809523805,0.6875,0.8125,0.4047619047619047,High stress,Poor
+607,Third year,Male,0.1428571428571428,0.6875,0.8125,0.4047619047619047,Extremely high stress,Poor
+608,Third year,Male,0.4880952380952381,0.5625,0.75,0.3333333333333333,High stress,Poor
+609,Third year,Male,0.0714285714285714,0.6875,0.75,0.3333333333333333,Extremely high stress,Below Average
+610,Graduate student,Male,0.0714285714285714,1.0,0.6875,0.3333333333333333,High stress,Poor
+611,Third year,Male,0.0714285714285714,0.6875,0.9375,0.4047619047619047,Extremely high stress,Below Average
+612,Third year,Female,0.0,1.0,0.8125,0.16666666666666666,High stress,Below Average
+613,Graduate student,Male,0.0714285714285714,0.6875,0.875,0.4047619047619047,Extremely high stress,Poor
+614,Graduate student,Male,0.3333333333333333,1.0,0.875,0.2619047619047619,High stress,Poor
+615,Third year,Male,0.0,1.0,0.875,0.4761904761904761,Extremely high stress,Below Average
+616,Third year,Male,0.0714285714285714,1.0,0.875,0.40476190476190466,Extremely high stress,Below Average
+617,First year,Female,0.1428571428571428,1.0,0.875,0.40476190476190466,Extremely high stress,Poor
+618,Graduate student,Female,0.1428571428571428,0.6875,0.6875,0.5952380952380952,Extremely high stress,Poor
+619,Graduate student,Male,0.23809523809523805,0.5625,0.8125,0.5714285714285714,Extremely high stress,Average
+620,First year,Female,0.0,0.0,0.6875,0.4047619047619047,Extremely high stress,Poor
+621,Third year,Male,0.15476190476190474,0.6875,0.75,0.40476190476190466,High stress,Poor
+622,Third year,Male,0.15476190476190474,1.0,0.75,0.40476190476190466,Extremely high stress,Below Average
+623,Third year,Female,0.1428571428571428,0.6875,0.75,0.3095238095238095,High stress,Below Average
+624,Third year,Male,0.15476190476190474,0.6875,0.75,0.40476190476190466,High stress,Below Average
+625,Third year,Male,0.15476190476190474,1.0,0.75,0.40476190476190466,Extremely high stress,Below Average
+626,Graduate student,Male,0.15476190476190474,0.6875,0.8125,0.5,High stress,Poor
+627,Third year,Male,0.22619047619047614,1.0,0.75,0.40476190476190466,Extremely high stress,Below Average
+628,Third year,Male,0.0,0.6875,0.75,0.3333333333333333,Extremely high stress,Below Average
+629,Third year,Male,0.22619047619047614,0.6875,0.75,0.4761904761904761,High stress,Poor
+630,Graduate student,Male,0.1428571428571428,0.6875,0.75,0.40476190476190466,High stress,Poor
+631,Third year,Male,0.15476190476190474,0.6875,0.75,0.3333333333333333,High stress,Poor
+632,Third year,Male,0.22619047619047614,0.6875,0.6875,0.40476190476190466,High stress,Poor
+633,Third year,Male,0.22619047619047614,0.6875,0.875,0.5,High stress,Below Average
+634,Third year,Male,0.22619047619047614,0.6875,0.875,0.3333333333333333,High stress,Below Average
+635,Third year,Female,0.15476190476190474,0.6875,0.875,0.4047619047619047,Extremely high stress,Below Average
+636,Graduate student,Male,0.1428571428571428,1.0,0.6875,0.40476190476190466,High stress,Below Average
+637,Graduate student,Male,0.25,1.0,0.9375,0.3333333333333333,High stress,Poor
+638,Graduate student,Male,0.15476190476190474,0.6875,0.75,0.40476190476190466,High stress,Poor
+639,Graduate student,Female,0.22619047619047614,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+640,Third year,Female,0.9166666666666666,0.0,0.4375,0.5952380952380952,High stress,Excellent
+641,Third year,Female,0.0,1.0,0.5625,0.49999999999999994,High stress,Average
+642,Third year,Male,0.22619047619047614,0.6875,0.75,0.4761904761904761,Extremely high stress,Poor
+643,Third year,Male,0.0714285714285714,0.6875,0.8125,0.40476190476190466,High stress,Poor
+644,Second year,Male,0.1428571428571428,0.6875,0.75,0.40476190476190466,High stress,Below Average
+645,Third year,Male,0.22619047619047614,1.0,0.75,0.3333333333333333,High stress,Below Average
+646,Third year,Male,0.15476190476190474,1.0,0.8125,0.40476190476190466,Extremely high stress,Below Average
+647,Graduate student,Male,0.15476190476190474,0.6875,0.75,0.40476190476190466,High stress,Poor
+648,Third year,Male,0.15476190476190474,0.6875,0.75,0.40476190476190466,High stress,Good
+649,Second year,Female,0.3333333333333333,0.6875,0.8125,0.2619047619047619,High stress,Poor
+650,Graduate student,Female,0.22619047619047614,0.6875,1.0,0.40476190476190466,Extremely high stress,Poor
+651,Third year,Female,0.1428571428571428,0.6875,0.875,0.40476190476190466,High stress,Poor
+652,Graduate student,Male,0.1428571428571428,0.6875,0.875,0.3333333333333333,High stress,Poor
+653,Third year,Male,0.15476190476190474,0.6875,0.875,0.4047619047619047,Extremely high stress,Below Average
+654,Third year,Female,0.22619047619047614,0.6875,0.5,0.5,Low stress,Good
+655,Graduate student,Male,0.25,0.6875,0.8125,0.40476190476190466,High stress,Below Average
+656,Third year,Male,0.1428571428571428,0.6875,0.6875,0.40476190476190466,High stress,Poor
+657,Third year,Female,0.6071428571428571,0.4375,0.25,0.5,Low stress,Good
+658,Graduate student,Male,0.22619047619047614,0.6875,0.8125,0.40476190476190466,High stress,Poor
+659,Third year,Female,0.9166666666666666,0.0,0.25,0.6666666666666666,Low stress,Good
+660,Third year,Male,0.22619047619047614,0.6875,0.8125,0.4761904761904761,Extremely high stress,Poor
+661,Graduate student,Male,0.15476190476190474,1.0,0.75,0.40476190476190466,High stress,Below Average
+662,Third year,Male,0.15476190476190474,1.0,0.75,0.40476190476190466,High stress,Below Average
+663,Third year,Female,0.22619047619047614,0.6875,0.9375,0.4047619047619047,High stress,Below Average
+664,First year,Female,0.4166666666666667,1.0,0.75,0.4047619047619047,Extremely high stress,Poor
+665,Third year,Male,0.3095238095238095,0.6875,0.75,0.40476190476190466,Extremely high stress,Average
+666,Third year,Male,0.08333333333333333,1.0,0.75,0.3333333333333333,High stress,Average
+667,Third year,Female,0.16666666666666666,1.0,0.8125,0.4047619047619047,Extremely high stress,Poor
+668,Third year,Male,0.15476190476190474,0.5625,0.6875,0.40476190476190466,Extremely high stress,Below Average
+669,Graduate student,Male,0.0,0.6875,0.8125,0.4761904761904761,High stress,Below Average
+670,Third year,Male,0.1428571428571428,1.0,0.8125,0.3333333333333333,High stress,Below Average
+671,Graduate student,Female,0.15476190476190474,0.6875,0.75,0.40476190476190466,Extremely high stress,Below Average
+672,Third year,Male,0.0,0.6875,0.9375,0.40476190476190466,High stress,Poor
+673,Third year,Male,0.22619047619047614,0.6875,0.6875,0.3333333333333333,High stress,Below Average
+674,Second year,Male,0.1428571428571428,1.0,0.875,0.3095238095238095,Extremely high stress,Below Average
+675,Second year,Male,0.15476190476190474,0.6875,0.75,0.40476190476190466,Extremely high stress,Below Average
+676,Graduate student,Male,0.08333333333333333,0.6875,0.8125,0.40476190476190466,Extremely high stress,Below Average
+677,Third year,Male,0.15476190476190474,1.0,0.875,0.4761904761904761,High stress,Below Average
+678,Graduate student,Male,0.22619047619047614,0.6875,0.8125,0.3333333333333333,High stress,Below Average
+679,Third year,Male,0.15476190476190474,1.0,0.875,0.4761904761904761,High stress,Below Average
+680,Graduate student,Male,0.4047619047619047,0.6875,0.8125,0.4761904761904761,High stress,Poor
+681,Third year,Male,0.0714285714285714,1.0,0.75,0.4761904761904761,Extremely high stress,Poor
+682,Third year,Female,0.7738095238095237,0.4375,0.4375,0.5,High stress,Average
+683,Third year,Male,0.15476190476190474,0.6875,0.8125,0.2619047619047619,High stress,Below Average
+684,Third year,Female,0.9166666666666666,0.0,0.3125,0.6904761904761904,High stress,Good
+685,Third year,Male,0.23809523809523805,0.6875,0.75,0.40476190476190466,High stress,Poor
+686,Third year,Male,0.16666666666666666,1.0,0.875,0.5,High stress,Poor
+687,Third year,Male,0.1428571428571428,0.6875,0.6875,0.4761904761904761,High stress,Poor
+688,Third year,Female,0.9285714285714285,0.4375,0.4375,0.4047619047619047,High stress,Average
+689,Second year,Male,0.22619047619047614,0.6875,0.75,0.40476190476190466,High stress,Below Average
+690,Third year,Male,0.3095238095238095,0.6875,0.75,0.40476190476190466,High stress,Average
+691,Third year,Male,0.22619047619047614,0.6875,0.8125,0.40476190476190466,High stress,Below Average
+692,Third year,Male,0.15476190476190474,1.0,0.8125,0.2619047619047619,High stress,Below Average
+693,Third year,Male,0.1428571428571428,0.6875,0.75,0.40476190476190466,High stress,Below Average
+694,Graduate student,Male,0.15476190476190474,0.6875,0.8125,0.40476190476190466,High stress,Poor
+695,Third year,Male,0.15476190476190474,1.0,0.8125,0.3333333333333333,Extremely high stress,Below Average
+696,Graduate student,Female,0.3928571428571428,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+697,Third year,Male,0.0714285714285714,1.0,0.75,0.40476190476190466,High stress,Poor
+698,Graduate student,Male,0.22619047619047614,0.6875,0.6875,0.40476190476190466,Extremely high stress,Below Average
+699,Graduate student,Male,0.15476190476190474,0.6875,0.75,0.40476190476190466,Extremely high stress,Below Average
+700,Graduate student,Male,0.15476190476190474,1.0,0.5625,0.3095238095238095,High stress,Poor
+701,Third year,Male,0.3095238095238095,1.0,0.75,0.40476190476190466,High stress,Average
+702,Third year,Male,0.3095238095238095,0.6875,0.75,0.40476190476190466,High stress,Average
+703,Third year,Male,0.3928571428571428,0.6875,0.75,0.40476190476190466,High stress,Below Average
+704,Third year,Male,0.3928571428571428,0.6875,0.75,0.40476190476190466,High stress,Below Average
+705,Third year,Male,0.3095238095238095,0.6875,0.75,0.40476190476190466,High stress,Below Average
+706,Third year,Male,0.0714285714285714,1.0,0.6875,0.40476190476190466,High stress,Below Average
+707,Graduate student,Male,0.1428571428571428,0.6875,0.75,0.40476190476190466,High stress,Below Average
+708,Third year,Male,0.15476190476190474,0.6875,0.875,0.40476190476190466,High stress,Below Average
+709,Third year,Male,0.15476190476190474,0.5625,0.75,0.3333333333333333,High stress,Poor
+710,Third year,Male,0.22619047619047614,0.6875,0.75,0.3095238095238095,High stress,Below Average
+711,Graduate student,Male,0.15476190476190474,0.6875,0.75,0.40476190476190466,High stress,Below Average
+712,Third year,Male,0.22619047619047614,0.6875,0.8125,0.40476190476190466,High stress,Poor
+713,Third year,Male,0.22619047619047614,1.0,0.8125,0.5714285714285714,Extremely high stress,Poor
+714,Graduate student,Female,0.3333333333333333,0.6875,0.875,0.40476190476190466,High stress,Poor
+715,Third year,Male,0.1428571428571428,0.6875,0.8125,0.40476190476190466,Extremely high stress,Below Average
+716,Graduate student,Male,0.15476190476190474,0.6875,0.6875,0.3333333333333333,High stress,Poor
+717,Graduate student,Male,0.15476190476190474,0.6875,0.875,0.4761904761904761,Extremely high stress,Below Average
+718,Third year,Male,0.15476190476190474,0.6875,0.75,0.40476190476190466,High stress,Poor
+719,Graduate student,Male,0.22619047619047614,1.0,0.75,0.40476190476190466,Extremely high stress,Poor
+720,Third year,Male,0.15476190476190474,0.6875,0.9375,0.2619047619047619,Extremely high stress,Below Average
+721,Graduate student,Male,0.22619047619047614,0.6875,0.8125,0.3333333333333333,High stress,Poor
+722,Third year,Male,0.3214285714285714,0.6875,0.875,0.4047619047619047,Extremely high stress,Poor
+723,Graduate student,Male,0.22619047619047614,1.0,0.8125,0.40476190476190466,Extremely high stress,Below Average
+724,Graduate student,Male,0.15476190476190474,0.6875,0.6875,0.40476190476190466,Extremely high stress,Poor
+725,Second year,Male,0.22619047619047614,1.0,0.875,0.4047619047619047,High stress,Below Average
+726,Graduate student,Male,0.0,0.6875,0.9375,0.3333333333333333,High stress,Below Average
+727,Third year,Female,0.0714285714285714,0.6875,0.875,0.4047619047619047,High stress,Average
+728,Graduate student,Male,0.0,1.0,0.75,0.3333333333333333,High stress,Below Average
+729,Third year,Male,0.15476190476190474,0.6875,0.8125,0.3333333333333333,High stress,Below Average
+730,Graduate student,Male,0.22619047619047614,0.6875,0.8125,0.2619047619047619,Extremely high stress,Poor
+731,Third year,Male,0.0714285714285714,0.5625,0.875,0.40476190476190466,Extremely high stress,Poor
+732,Graduate student,Male,0.0714285714285714,1.0,0.875,0.4047619047619047,High stress,Average
+733,Graduate student,Male,0.0714285714285714,0.6875,0.9375,0.4047619047619047,Extremely high stress,Poor
+734,Third year,Male,0.0714285714285714,1.0,0.8125,0.3333333333333333,High stress,Below Average
+735,Graduate student,Female,0.0714285714285714,0.6875,0.6875,0.3333333333333333,High stress,Below Average
+736,Graduate student,Male,0.1428571428571428,0.6875,0.75,0.3333333333333333,High stress,Below Average
+737,Third year,Male,0.22619047619047614,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+738,Third year,Male,0.22619047619047614,0.6875,0.75,0.40476190476190466,High stress,Below Average
+739,Graduate student,Male,0.0714285714285714,1.0,0.75,0.3333333333333333,High stress,Below Average
+740,Graduate student,Male,0.0,1.0,0.75,0.3333333333333333,High stress,Poor
+741,Third year,Male,0.1428571428571428,0.6875,0.9375,0.4761904761904761,Extremely high stress,Below Average
+742,Graduate student,Male,0.15476190476190474,1.0,0.9375,0.3333333333333333,High stress,Poor
+743,Third year,Female,0.16666666666666666,1.0,0.75,0.4047619047619047,Extremely high stress,Poor
+744,Graduate student,Male,0.0714285714285714,1.0,0.8125,0.4761904761904761,Extremely high stress,Below Average
+745,Third year,Male,0.0714285714285714,1.0,0.8125,0.3333333333333333,High stress,Below Average
+746,Third year,Female,0.0,0.6875,0.8125,0.3333333333333333,High stress,Below Average
+747,Third year,Male,0.08333333333333333,0.6875,0.75,0.3333333333333333,High stress,Poor
+748,Graduate student,Male,0.15476190476190474,0.6875,0.75,0.4047619047619047,High stress,Average
+749,Graduate student,Male,0.0714285714285714,0.6875,0.875,0.40476190476190466,High stress,Below Average
+750,Graduate student,Male,0.15476190476190474,0.6875,0.9375,0.40476190476190466,Extremely high stress,Poor
+751,Third year,Female,0.0714285714285714,0.6875,0.8125,0.4761904761904761,Extremely high stress,Poor
+752,Third year,Male,0.1428571428571428,0.6875,0.875,0.3333333333333333,Extremely high stress,Below Average
+753,Third year,Male,0.0714285714285714,0.6875,0.8125,0.4047619047619047,High stress,Below Average
+754,Graduate student,Male,0.0714285714285714,1.0,0.8125,0.40476190476190466,High stress,Below Average
+755,Graduate student,Male,0.0,0.6875,0.875,0.4761904761904761,High stress,Below Average
+756,Graduate student,Male,0.0714285714285714,1.0,0.8125,0.4047619047619047,High stress,Poor
+757,Graduate student,Male,0.0,0.6875,0.75,0.3333333333333333,Extremely high stress,Poor
+758,Third year,Female,0.0714285714285714,0.6875,0.9375,0.3333333333333333,Extremely high stress,Below Average
+759,Graduate student,Female,0.15476190476190474,0.6875,0.75,0.4047619047619047,Extremely high stress,Average
+760,Graduate student,Male,0.0714285714285714,1.0,0.9375,0.4761904761904761,Extremely high stress,Below Average
+761,Graduate student,Male,0.0714285714285714,1.0,0.875,0.2619047619047619,Extremely high stress,Below Average
+762,Graduate student,Male,0.0,0.6875,0.75,0.3333333333333333,Extremely high stress,Below Average
+763,Third year,Male,0.22619047619047614,0.6875,0.9375,0.4761904761904761,Extremely high stress,Poor
+764,Third year,Female,0.0714285714285714,0.6875,0.875,0.3333333333333333,Extremely high stress,Below Average
+765,Graduate student,Male,0.08333333333333333,1.0,0.75,0.4761904761904761,Extremely high stress,Poor
+766,Graduate student,Male,0.1428571428571428,0.6875,0.75,0.3333333333333333,Extremely high stress,Below Average
+767,Graduate student,Male,0.4047619047619047,0.6875,0.8125,0.3333333333333333,Extremely high stress,Poor
+768,Graduate student,Male,0.1428571428571428,0.6875,0.875,0.40476190476190466,Extremely high stress,Poor
+769,Graduate student,Male,0.0714285714285714,1.0,0.8125,0.40476190476190466,High stress,Poor
+770,Graduate student,Male,0.15476190476190474,0.6875,0.875,0.5,Extremely high stress,Poor
+771,Graduate student,Male,0.1428571428571428,0.6875,0.875,0.3333333333333333,High stress,Poor
+772,Graduate student,Male,0.15476190476190474,0.6875,0.9375,0.3333333333333333,High stress,Poor
+773,Third year,Male,0.0714285714285714,1.0,0.9375,0.3333333333333333,High stress,Below Average
+774,Third year,Male,0.22619047619047614,0.6875,0.9375,0.3333333333333333,High stress,Poor
+775,Graduate student,Male,0.08333333333333333,0.6875,0.875,0.3333333333333333,Extremely high stress,Below Average
+776,Third year,Male,0.15476190476190474,0.6875,0.9375,0.4047619047619047,Extremely high stress,Below Average
+777,Third year,Male,0.0714285714285714,1.0,0.8125,0.2619047619047619,Extremely high stress,Poor
+778,Graduate student,Male,0.0714285714285714,0.6875,0.8125,0.40476190476190466,High stress,Below Average
+779,Graduate student,Male,0.08333333333333333,1.0,0.75,0.3333333333333333,High stress,Poor
+780,Graduate student,Male,0.0714285714285714,0.6875,0.75,0.3333333333333333,Extremely high stress,Poor
+781,Graduate student,Male,0.22619047619047614,0.6875,0.875,0.4761904761904761,High stress,Poor
+782,Third year,Male,0.15476190476190474,1.0,0.75,0.3333333333333333,Extremely high stress,Below Average
+783,Third year,Male,0.5,0.6875,0.6875,0.40476190476190466,High stress,Poor
+784,Graduate student,Male,0.0,0.6875,0.8125,0.3333333333333333,Extremely high stress,Below Average
+785,Graduate student,Male,0.08333333333333333,1.0,0.75,0.16666666666666666,Extremely high stress,Below Average
+786,Third year,Male,0.0,1.0,0.8125,0.4047619047619047,Extremely high stress,Average
+787,Graduate student,Male,0.4047619047619047,1.0,0.875,0.3333333333333333,Extremely high stress,Poor
+788,Graduate student,Male,0.0714285714285714,1.0,0.9375,0.4761904761904761,Extremely high stress,Poor
+789,Graduate student,Male,0.16666666666666666,0.6875,0.8125,0.3333333333333333,High stress,Below Average
+790,Third year,Male,0.15476190476190474,1.0,0.8125,0.3333333333333333,Extremely high stress,Poor
+791,Second year,Female,0.0714285714285714,1.0,0.875,0.42857142857142855,High stress,Below Average
+792,Third year,Male,0.22619047619047614,0.6875,0.875,0.40476190476190466,Extremely high stress,Poor
+793,Second year,Female,0.0714285714285714,1.0,0.875,0.4761904761904761,Extremely high stress,Poor
+794,Graduate student,Female,0.1428571428571428,0.6875,0.6875,0.3333333333333333,Extremely high stress,Below Average
+795,Third year,Male,0.15476190476190474,0.6875,0.8125,0.3333333333333333,Extremely high stress,Below Average
+796,Third year,Male,0.15476190476190474,0.6875,0.8125,0.4047619047619047,High stress,Below Average
+797,Third year,Male,0.0714285714285714,0.6875,1.0,0.4761904761904761,Extremely high stress,Poor
+798,Graduate student,Male,0.0714285714285714,1.0,0.8125,0.3333333333333333,Extremely high stress,Below Average
+799,Graduate student,Male,0.15476190476190474,1.0,0.8125,0.4761904761904761,Extremely high stress,Below Average
+800,Third year,Male,0.23809523809523805,0.6875,0.875,0.3333333333333333,Extremely high stress,Below Average
+801,Graduate student,Male,0.15476190476190474,0.6875,0.8125,0.4047619047619047,Extremely high stress,Poor
+802,Graduate student,Male,0.0714285714285714,0.6875,0.875,0.3333333333333333,High stress,Below Average
+803,Graduate student,Male,0.15476190476190474,1.0,0.8125,0.40476190476190466,Extremely high stress,Poor
+804,Third year,Male,0.1428571428571428,0.6875,0.75,0.40476190476190466,High stress,Poor
+805,Third year,Male,0.08333333333333333,0.6875,0.8125,0.3333333333333333,Extremely high stress,Average
+806,Third year,Male,0.23809523809523805,0.6875,0.875,0.4761904761904761,Extremely high stress,Below Average
+807,Third year,Male,0.0714285714285714,0.6875,0.8125,0.40476190476190466,Extremely high stress,Below Average
+808,Third year,Male,0.22619047619047614,1.0,0.75,0.40476190476190466,Extremely high stress,Poor
+809,Third year,Male,0.1428571428571428,0.6875,0.8125,0.40476190476190466,High stress,Average
+810,Third year,Female,0.1428571428571428,0.6875,0.8125,0.5,High stress,Poor
+811,Graduate student,Male,0.0714285714285714,0.6875,0.75,0.3333333333333333,High stress,Below Average
+812,Graduate student,Male,0.1428571428571428,0.6875,0.9375,0.4047619047619047,Extremely high stress,Poor
+813,Graduate student,Male,0.1428571428571428,0.6875,0.6875,0.4761904761904761,Extremely high stress,Below Average
+814,Third year,Male,0.08333333333333333,0.6875,0.75,0.4761904761904761,Extremely high stress,Poor
+815,Third year,Male,0.3214285714285714,0.6875,1.0,0.2619047619047619,High stress,Below Average
+816,Third year,Male,0.08333333333333333,1.0,0.75,0.3333333333333333,Extremely high stress,Below Average
+817,Graduate student,Male,0.1428571428571428,0.6875,0.75,0.4047619047619047,High stress,Below Average
+818,Graduate student,Male,0.1428571428571428,0.6875,0.625,0.4047619047619047,High stress,Poor
+819,Third year,Male,0.15476190476190474,0.6875,0.625,0.40476190476190466,Extremely high stress,Below Average
+820,Graduate student,Female,0.16666666666666666,1.0,0.75,0.40476190476190466,High stress,Poor
+821,Graduate student,Male,0.1428571428571428,0.6875,0.8125,0.5,Extremely high stress,Below Average
+822,Second year,Male,0.1428571428571428,0.6875,0.75,0.3333333333333333,Extremely high stress,Below Average
+823,Graduate student,Male,0.3928571428571428,0.6875,0.75,0.5,Extremely high stress,Below Average
+824,Graduate student,Male,0.3333333333333333,1.0,0.8125,0.3333333333333333,Extremely high stress,Poor
+825,Third year,Male,0.22619047619047614,0.6875,0.8125,0.4047619047619047,High stress,Poor
+826,Graduate student,Male,0.0,1.0,0.875,0.3333333333333333,Extremely high stress,Below Average
+827,Graduate student,Male,0.15476190476190474,0.6875,0.9375,0.3333333333333333,High stress,Poor
+828,Third year,Male,0.4761904761904761,1.0,0.875,0.3333333333333333,High stress,Poor
+829,Graduate student,Male,0.0714285714285714,1.0,0.8125,0.3333333333333333,Extremely high stress,Poor
+830,Graduate student,Male,0.0714285714285714,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+831,Graduate student,Female,0.0714285714285714,1.0,0.875,0.3333333333333333,Extremely high stress,Poor
+832,Third year,Male,0.0,1.0,0.8125,0.2619047619047619,Extremely high stress,Poor
+833,Third year,Male,0.0714285714285714,1.0,0.9375,0.4047619047619047,Extremely high stress,Poor
+834,Graduate student,Male,0.0714285714285714,0.6875,0.875,0.3333333333333333,Extremely high stress,Poor
+835,Third year,Male,0.0,1.0,0.9375,0.3333333333333333,Extremely high stress,Poor
+836,Graduate student,Male,0.15476190476190474,0.6875,1.0,0.3333333333333333,Extremely high stress,Below Average
+837,Third year,Male,0.3333333333333333,0.6875,0.875,0.4761904761904761,Extremely high stress,Below Average
+838,Graduate student,Male,0.0714285714285714,1.0,0.875,0.4761904761904761,Extremely high stress,Poor
+839,Graduate student,Male,0.16666666666666666,0.6875,0.75,0.40476190476190466,High stress,Below Average
+840,Graduate student,Male,0.15476190476190474,0.6875,0.875,0.2619047619047619,Extremely high stress,Poor
+841,Graduate student,Male,0.4761904761904761,1.0,0.875,0.40476190476190466,High stress,Below Average
+842,Graduate student,Male,0.0714285714285714,1.0,1.0,0.3333333333333333,Extremely high stress,Below Average
+843,Graduate student,Female,0.0714285714285714,0.6875,0.9375,0.3333333333333333,Extremely high stress,Below Average
+844,Graduate student,Male,0.0,0.6875,0.875,0.3333333333333333,High stress,Poor
+845,Graduate student,Male,0.15476190476190474,1.0,1.0,0.3333333333333333,High stress,Below Average
+846,Second year,Female,0.1428571428571428,1.0,1.0,0.3333333333333333,Extremely high stress,Poor
+847,Graduate student,Male,0.25,0.6875,0.8125,0.4047619047619047,High stress,Below Average
+848,Third year,Male,0.3214285714285714,1.0,0.75,0.3333333333333333,Extremely high stress,Poor
+849,Third year,Male,0.5952380952380952,0.5625,0.4375,0.4047619047619047,High stress,Poor
+850,Graduate student,Female,0.25,1.0,0.6875,0.4047619047619047,Extremely high stress,Below Average
+851,Second year,Male,0.6785714285714285,0.6875,0.25,0.5952380952380952,High stress,Below Average
+852,Graduate student,Male,0.4047619047619047,0.6875,0.875,0.4761904761904761,High stress,Poor
+853,Third year,Male,0.5,0.4375,0.625,0.3333333333333333,High stress,Poor
+854,Third year,Male,0.3214285714285714,0.6875,0.75,0.3333333333333333,Extremely high stress,Below Average
+855,Graduate student,Female,0.3928571428571428,0.6875,0.8125,0.3333333333333333,Extremely high stress,Below Average
+856,Second year,Female,0.1428571428571428,0.5625,0.875,0.4047619047619047,High stress,Below Average
+857,Third year,Female,0.25,1.0,0.875,0.4761904761904761,High stress,Below Average
+858,Graduate student,Male,0.4880952380952381,0.6875,0.75,0.4761904761904761,Extremely high stress,Below Average
+859,Third year,Male,0.5,0.4375,0.25,0.4047619047619047,High stress,Poor
+860,Third year,Male,0.0714285714285714,0.5625,0.875,0.5714285714285714,Extremely high stress,Below Average
+861,Second year,Female,0.5,0.5625,0.5625,0.5,Low stress,Poor
+862,Graduate student,Male,0.3214285714285714,0.6875,0.75,0.3333333333333333,High stress,Poor
+863,Third year,Male,0.5,0.5625,0.5,0.7619047619047619,Extremely high stress,Below Average
+864,Third year,Male,0.3333333333333333,0.5625,0.75,0.40476190476190466,Extremely high stress,Below Average
+865,Graduate student,Male,0.3333333333333333,0.6875,0.8125,0.3333333333333333,Extremely high stress,Below Average
+866,Third year,Male,0.3095238095238095,0.5625,0.8125,0.2142857142857142,Extremely high stress,Poor
+867,Third year,Male,0.15476190476190474,1.0,0.875,0.40476190476190466,Extremely high stress,Below Average
+868,Second year,Male,0.4047619047619047,1.0,0.625,0.6904761904761904,Extremely high stress,Poor
+869,Graduate student,Male,0.4047619047619047,0.5625,0.8125,0.5,Extremely high stress,Poor
+870,Third year,Female,0.5119047619047619,0.5625,0.625,0.40476190476190466,High stress,Poor
+871,Third year,Male,0.5,0.6875,0.8125,0.4047619047619047,High stress,Poor
+872,Graduate student,Male,0.8571428571428571,0.5625,0.5625,0.3333333333333333,Extremely high stress,Poor
+873,Third year,Female,0.5,1.0,0.75,0.4047619047619047,Extremely high stress,Poor
+874,Third year,Female,0.3214285714285714,0.6875,0.875,0.40476190476190466,High stress,Below Average
+875,Graduate student,Female,0.5,0.6875,0.4375,0.5,High stress,Below Average
+876,Third year,Male,0.3214285714285714,0.5625,0.6875,0.4047619047619047,Extremely high stress,Poor
+877,Second year,Female,0.5833333333333334,0.5625,0.5625,0.5,High stress,Below Average
+878,Graduate student,Male,0.25,1.0,0.6875,0.3333333333333333,Extremely high stress,Below Average
+879,Third year,Male,0.5,0.4375,0.75,0.4047619047619047,High stress,Below Average
+880,Graduate student,Male,0.4047619047619047,0.6875,0.8125,0.4761904761904761,Extremely high stress,Below Average
+881,Third year,Male,0.4761904761904761,1.0,0.8125,0.4761904761904761,Extremely high stress,Below Average
+882,Third year,Female,0.3095238095238095,0.6875,0.625,0.6904761904761904,High stress,Below Average
+883,Third year,Male,0.3333333333333333,0.6875,0.6875,0.5714285714285714,Extremely high stress,Poor
+884,Third year,Female,0.5,0.4375,0.5625,0.3095238095238095,Low stress,Below Average
+885,Graduate student,Female,0.5,0.4375,1.0,0.3333333333333333,Extremely high stress,Poor
+886,Third year,Female,0.3928571428571428,0.5625,0.75,0.4047619047619047,Extremely high stress,Below Average
+887,Third year,Female,0.5119047619047619,0.4375,0.25,0.4047619047619047,Low stress,Poor
+888,Third year,Female,0.4761904761904761,0.6875,0.6875,0.4047619047619047,Extremely high stress,Poor
+889,First year,Male,0.6785714285714285,0.5625,0.6875,0.5,Extremely high stress,Below Average
+890,Graduate student,Male,0.3333333333333333,1.0,0.8125,0.4761904761904761,Extremely high stress,Poor
+891,Graduate student,Female,0.3095238095238095,0.5625,0.5,0.40476190476190466,High stress,Good
+892,Third year,Female,0.5714285714285714,0.6875,0.5,0.5952380952380952,Extremely high stress,Below Average
+893,Graduate student,Male,0.42857142857142855,0.6875,0.5,0.49999999999999994,No stress,Below Average
+894,Graduate student,Male,0.4047619047619047,0.6875,1.0,0.3333333333333333,Extremely high stress,Below Average
+895,Third year,Female,0.4880952380952381,0.5625,0.5625,0.49999999999999994,High stress,Poor
+896,Third year,Male,0.3214285714285714,0.6875,0.6875,0.4047619047619047,Extremely high stress,Below Average
+897,Third year,Male,0.6785714285714285,0.5625,0.5,0.5952380952380952,Extremely high stress,Below Average
+898,First year,Female,0.15476190476190474,1.0,0.8125,0.4761904761904761,Extremely high stress,Below Average
+899,Graduate student,Female,0.5714285714285714,0.5625,0.875,0.5,Extremely high stress,Poor
+900,First year,Female,0.22619047619047614,0.6875,0.8125,0.3333333333333333,Extremely high stress,Poor
+901,Graduate student,Female,0.5952380952380952,0.5625,0.5,0.4047619047619047,Extremely high stress,Poor
+902,Third year,Male,0.4047619047619047,0.6875,1.0,0.4047619047619047,Extremely high stress,Below Average
+903,Third year,Male,0.5119047619047619,0.4375,0.5,0.5,Low stress,Below Average
+904,Graduate student,Female,0.4047619047619047,0.6875,0.8125,0.3333333333333333,High stress,Average
+905,Graduate student,Female,0.3333333333333333,1.0,0.875,0.3333333333333333,Extremely high stress,Poor
+906,Second year,Female,0.5,0.6875,0.5,0.4761904761904761,Extremely high stress,Below Average
+907,Third year,Male,0.3928571428571428,0.5625,0.75,0.3333333333333333,Extremely high stress,Poor
+908,Second year,Male,0.42857142857142855,0.5625,0.3125,0.42857142857142855,High stress,Below Average
+909,Graduate student,Female,0.4761904761904761,1.0,0.9375,0.4761904761904761,Extremely high stress,Below Average
+910,Third year,Male,0.5833333333333334,0.5625,0.5,0.5,Low stress,Good
+911,Graduate student,Male,0.4761904761904761,1.0,0.9375,0.4047619047619047,Extremely high stress,Below Average
+912,Second year,Female,0.5119047619047619,0.6875,0.25,0.6904761904761904,High stress,Average
+913,Graduate student,Male,0.4047619047619047,0.6875,0.9375,0.3333333333333333,Extremely high stress,Average
+914,Second year,Male,0.8452380952380952,0.5625,0.5,0.5714285714285714,Low stress,Poor
+915,Second year,Female,0.6666666666666666,0.6875,0.0,0.6666666666666666,No stress,Good
+916,Second year,Female,0.3333333333333333,1.0,1.0,0.4761904761904761,Extremely high stress,Poor
+917,Second year,Female,0.5,0.4375,0.3125,0.5,Extremely high stress,Poor
+918,Third year,Female,0.5,0.6875,0.8125,0.4047619047619047,Extremely high stress,Below Average
+919,Second year,Male,0.4047619047619047,0.6875,0.9375,0.5238095238095238,High stress,Average
+920,Graduate student,Female,0.5,0.6875,0.625,0.3333333333333333,Extremely high stress,Below Average
+921,Graduate student,Female,0.4047619047619047,0.0,0.3125,0.5,Low stress,Good
+922,First year,Female,0.5833333333333334,0.0,0.4375,0.6666666666666666,High stress,Average
+923,Graduate student,Female,0.3928571428571428,0.6875,0.8125,0.16666666666666666,Extremely high stress,Poor
+924,Graduate student,Female,0.5,1.0,0.5,0.42857142857142855,High stress,Average
+925,Third year,Female,0.3333333333333333,0.6875,0.8125,0.4761904761904761,High stress,Poor
+926,Second year,Female,0.5119047619047619,0.0,0.3125,0.5952380952380952,Low stress,Average
+927,Third year,Female,0.5833333333333334,0.4375,0.1875,0.5952380952380952,Extremely high stress,Poor
+928,Third year,Male,0.3928571428571428,0.6875,0.75,0.3333333333333333,Extremely high stress,Below Average
+929,Third year,Female,0.4880952380952381,0.4375,0.25,0.5952380952380952,Low stress,Average
+930,Third year,Male,0.3928571428571428,0.6875,0.875,0.4761904761904761,Extremely high stress,Average
+931,Third year,Male,0.5952380952380952,0.5625,0.25,0.7857142857142857,High stress,Below Average
+932,Third year,Female,0.3928571428571428,1.0,0.8125,0.4047619047619047,High stress,Below Average
+933,Second year,Female,0.4047619047619047,1.0,0.125,0.5,High stress,Average
+934,Third year,Male,0.3333333333333333,1.0,0.9375,0.4047619047619047,Extremely high stress,Below Average
+935,Third year,Male,0.3214285714285714,1.0,0.0625,0.6666666666666666,High stress,Below Average
+936,Graduate student,Male,0.3928571428571428,0.6875,0.875,0.3333333333333333,Extremely high stress,Average
+937,Third year,Female,0.5119047619047619,0.5625,0.1875,0.49999999999999994,High stress,Average
+938,Third year,Female,0.1428571428571428,0.6875,0.4375,0.5238095238095238,No stress,Excellent
+939,Third year,Male,0.4880952380952381,0.6875,0.875,0.40476190476190466,Extremely high stress,Poor
+940,Graduate student,Male,0.3214285714285714,0.6875,0.75,0.2619047619047619,Extremely high stress,Poor
+941,Second year,Female,0.3333333333333333,0.4375,0.25,0.5,High stress,Good
+942,Graduate student,Female,0.3214285714285714,0.6875,0.625,0.4047619047619047,Extremely high stress,Below Average
+943,Third year,Male,0.6666666666666666,1.0,0.5,0.7619047619047619,High stress,Average
+944,Third year,Male,0.4047619047619047,0.6875,0.9375,0.3333333333333333,High stress,Below Average
+945,Second year,Male,0.5833333333333334,0.5625,0.4375,0.5,Low stress,Average
+946,Graduate student,Male,0.3333333333333333,0.6875,0.8125,0.4047619047619047,Extremely high stress,Below Average
+947,Third year,Female,0.5,0.4375,0.1875,0.49999999999999994,High stress,Average
+948,Third year,Female,0.3333333333333333,0.6875,0.8125,0.3333333333333333,Extremely high stress,Poor
+949,Third year,Male,0.3214285714285714,0.6875,0.8125,0.3333333333333333,High stress,Average
+950,Graduate student,Female,0.5119047619047619,0.4375,0.5,0.5,High stress,Good
+951,First year,Male,0.6785714285714285,0.0,0.125,0.8333333333333334,High stress,Below Average
+952,Graduate student,Female,0.6785714285714285,0.5625,0.25,0.6666666666666666,High stress,Good
+953,First year,Male,0.7619047619047619,0.5625,0.3125,0.8333333333333334,High stress,Excellent
+954,Third year,Female,0.4166666666666667,0.0,0.9375,0.40476190476190466,Extremely high stress,Poor
+955,Graduate student,Female,0.23809523809523805,1.0,0.1875,0.6666666666666666,Extremely high stress,Average
+956,Graduate student,Male,0.3333333333333333,1.0,0.8125,0.4761904761904761,Extremely high stress,Below Average
+957,Graduate student,Female,0.6785714285714285,0.0,0.0625,0.6666666666666666,No stress,Average
+958,Third year,Male,0.4761904761904761,1.0,0.8125,0.40476190476190466,High stress,Below Average
+959,Graduate student,Female,0.8333333333333334,0.4375,0.5,0.5952380952380952,High stress,Below Average
+960,Graduate student,Male,0.4761904761904761,1.0,0.875,0.3333333333333333,Extremely high stress,Below Average
+961,Graduate student,Female,0.5,0.4375,0.5,0.4047619047619047,Extremely high stress,Below Average
+962,Third year,Male,0.3095238095238095,1.0,0.75,0.4047619047619047,High stress,Poor
+963,Third year,Female,0.3928571428571428,0.6875,0.5,0.6904761904761904,High stress,Good
+964,Second year,Male,0.5119047619047619,1.0,0.875,0.3333333333333333,Extremely high stress,Poor
+965,Second year,Female,0.4880952380952381,0.6875,0.25,0.5952380952380952,Low stress,Below Average
+966,Second year,Male,0.5833333333333334,0.5625,0.625,0.16666666666666666,Low stress,Excellent
+967,Graduate student,Female,0.5,0.6875,0.6875,0.5,High stress,Below Average
+968,Graduate student,Male,0.3333333333333333,0.6875,0.8125,0.4047619047619047,Extremely high stress,Poor
+969,Second year,Male,0.75,0.4375,0.375,0.8571428571428571,Extremely high stress,Good
+970,Graduate student,Female,0.4166666666666667,0.4375,0.125,0.6666666666666666,No stress,Good
+971,Graduate student,Male,0.3333333333333333,1.0,0.9375,0.4047619047619047,Extremely high stress,Poor
+972,Second year,Female,0.4047619047619047,0.4375,0.1875,0.3095238095238095,High stress,Poor
+973,Graduate student,Male,0.4047619047619047,1.0,0.8125,0.4761904761904761,Extremely high stress,Average
+974,Third year,Female,0.5119047619047619,0.4375,0.1875,0.5952380952380952,Low stress,Excellent
+975,Second year,Female,0.42857142857142855,0.4375,0.1875,0.7619047619047619,Extremely high stress,Average
+976,Third year,Female,0.5833333333333334,0.6875,1.0,0.4761904761904761,Extremely high stress,Below Average
+977,Third year,Female,0.3333333333333333,1.0,0.75,0.4047619047619047,Extremely high stress,Poor
+978,Second year,Female,0.4047619047619047,1.0,0.125,0.6666666666666666,Low stress,Average
+979,Third year,Female,0.4047619047619047,1.0,0.6875,0.4047619047619047,Extremely high stress,Poor
+980,Third year,Female,0.5952380952380952,0.4375,0.25,0.5,Extremely high stress,Below Average
+981,Second year,Male,0.3333333333333333,0.6875,0.9375,0.4047619047619047,Extremely high stress,Below Average
+982,Second year,Male,0.4166666666666667,0.5625,0.3125,0.7619047619047619,Low stress,Below Average
+983,Third year,Male,0.4047619047619047,0.6875,0.75,0.4047619047619047,Extremely high stress,Poor
+984,Third year,Female,0.4047619047619047,0.6875,0.4375,0.5,Extremely high stress,Below Average
+985,Third year,Female,0.0714285714285714,0.6875,0.8125,0.40476190476190466,High stress,Below Average
+986,Second year,Female,0.4880952380952381,0.5625,0.4375,0.5,High stress,Average
+987,Graduate student,Female,0.4047619047619047,0.6875,0.6875,0.3333333333333333,High stress,Below Average
+988,Second year,Female,0.5833333333333334,0.5625,0.5,0.5,High stress,Average
+989,Third year,Female,0.4047619047619047,1.0,0.8125,0.3333333333333333,High stress,Poor
+990,Second year,Male,0.4047619047619047,0.4375,0.1875,0.6666666666666666,Extremely high stress,Below Average
+991,Graduate student,Female,0.4047619047619047,1.0,0.75,0.2619047619047619,Extremely high stress,Average
+992,Graduate student,Female,0.5952380952380952,0.4375,0.4375,0.4761904761904761,Low stress,Below Average
+993,Third year,Female,0.6666666666666666,1.0,0.125,0.4761904761904761,High stress,Average
+994,Third year,Male,0.5833333333333334,0.0,0.4375,0.5714285714285714,Extremely high stress,Excellent
+995,Third year,Female,0.3928571428571428,1.0,0.5,0.6666666666666666,Extremely high stress,Good
